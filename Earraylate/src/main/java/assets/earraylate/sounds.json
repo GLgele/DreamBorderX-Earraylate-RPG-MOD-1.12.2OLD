@@ -1,0 +1,22 @@
+{
+  "songs.excalibur": {
+    "category": "player",
+    "sounds": [{"name": "customnpcs:songs/Failboat103 - Excalibuuur", "stream": true}]
+  },
+  "songs.kyleb_7by8": {
+    "category": "player",
+    "sounds": [{"name": "customnpcs:songs/TheKyleb - 7 by 8", "stream": true}]
+  },
+  "songs.kyleb_bard": {
+    "category": "player",
+    "sounds": [{"name": "customnpcs:songs/TheKyleb - Bard", "stream": true}]
+  },
+  "songs.good_battle_04": {
+    "category": "player",
+    "sounds": [{"name": "customnpcs:songs/good_battle_04", "stream": true}]
+  },
+  "songs.blood_and_guts": {
+    "category": "player",
+    "sounds": [{"name": "customnpcs:songs/blood_and_guts", "stream": true}]
+  }
+}
