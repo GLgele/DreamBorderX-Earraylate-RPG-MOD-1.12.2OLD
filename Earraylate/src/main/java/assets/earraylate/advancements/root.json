@@ -9,8 +9,7 @@
     "description": {
       "translate": "advancements.earraylate.firstone.desc"
     },
-    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
-    "announce_to_chat": false
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
   },
   "criteria": {
     "tick": {
