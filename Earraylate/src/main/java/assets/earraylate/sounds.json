@@ -18,5 +18,13 @@
   "songs.blood_and_guts": {
     "category": "player",
     "sounds": [{"name": "customnpcs:songs/blood_and_guts", "stream": true}]
+  },
+  "songs.ts1": {
+    "category": "player",
+    "sounds": [{"name": "customnpcs:songs/ts1", "stream": true}]
+  },
+  "songs.ts2": {
+    "category": "player",
+    "sounds": [{"name": "customnpcs:songs/ts2", "stream": true}]
   }
 }

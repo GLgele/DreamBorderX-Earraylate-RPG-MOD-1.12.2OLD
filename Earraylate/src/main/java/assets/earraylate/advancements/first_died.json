@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "variedcommodities:blood_block"
+    },
+    "title": {
+      "translate": "advancements.earraylate.first_died"
+    },
+    "description": {
+      "translate": "advancements.earraylate.first_died.desc"
+    }
+  },
+  "parent":"earraylate:root",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "customnpcs:customnpc"
+        }
+      }
+    }
+  }
+}
