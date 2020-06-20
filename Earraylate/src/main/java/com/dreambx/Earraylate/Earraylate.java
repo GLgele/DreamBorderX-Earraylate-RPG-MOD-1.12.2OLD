@@ -50,5 +50,6 @@ public enum Earraylate {
     @Mod.EventHandler
     public void preLoad(FMLPreInitializationEvent event) {
         System.out.println("Hello, Forge");
+        System.out.println("This is Earraylate RPG!");
     }
 }
