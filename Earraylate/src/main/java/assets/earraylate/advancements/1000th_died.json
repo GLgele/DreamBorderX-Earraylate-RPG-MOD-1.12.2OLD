@@ -9,7 +9,8 @@
     "frame": "challenge",
     "description": {
       "translate": "advancements.earraylate.1000th_died.desc"
-    }
+    },
+    "hidden": false
   },
   "parent":"earraylate:100th_died",
   "criteria": {
