@@ -8,7 +8,8 @@
     },
     "description": {
       "translate": "advancements.earraylate.tenth_died.desc"
-    }
+    },
+    "hidden": true
   },
   "parent":"earraylate:first_died",
   "criteria": {
