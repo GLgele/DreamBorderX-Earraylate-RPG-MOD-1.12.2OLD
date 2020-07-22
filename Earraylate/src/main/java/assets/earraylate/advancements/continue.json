@@ -7,7 +7,7 @@
       "translate": "advancements.earraylate.continue"
     },
     "description": {
-      "translate": "advancements.earraylate.cuntinue.desc"
+      "translate": "advancements.earraylate.continue.desc"
     }
   },
   "parent":"earraylate:new_town",
