@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "variedcommodities:saber"
+    },
+    "title": {
+      "translate": "advancements.earraylate.continue"
+    },
+    "description": {
+      "translate": "advancements.earraylate.cuntinue.desc"
+    }
+  },
+  "parent":"earraylate:new_town",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

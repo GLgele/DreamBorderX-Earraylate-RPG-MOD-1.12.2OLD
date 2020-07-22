@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f851c57-f31f-4291-b285-8cdb83031225" name="Default Changelist" comment="" />
+    <list default="true" id="9f851c57-f31f-4291-b285-8cdb83031225" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/assets/earraylate/advancements/another_job.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assets/earraylate/advancements/chapter1_finish.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assets/earraylate/advancements/continue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assets/earraylate/advancements/do_work.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assets/earraylate/advancements/hero.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assets/earraylate/advancements/new_town.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assets/earraylate/advancements/select_job.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/gradle.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Earraylate.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Earraylate.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/assets/earraylate/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assets/earraylate/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/assets/earraylate/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assets/earraylate/lang/zh_cn.lang" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,6 +274,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
@@ -257,13 +298,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1594191463600" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595419861172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595419861172" />
+    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595419860433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595419860433" />
     <state x="740" y="225" key="FileChooserDialogImpl" timestamp="1594191488345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594191488345" />
-    <state x="440" y="93" key="SettingsEditor" timestamp="1594191490814">
+    <state x="440" y="93" key="SettingsEditor" timestamp="1595420041289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594191490814" />
+    <state x="440" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595420041289" />
+    <state x="616" y="162" width="672" height="676" key="search.everywhere.popup" timestamp="1595421517127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="162" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595421517127" />
   </component>
 </project>

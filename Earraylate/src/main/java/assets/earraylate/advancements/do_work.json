@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "variedcommodities:wooden_scythe"
+    },
+    "title": {
+      "translate": "advancements.earraylate.do_work"
+    },
+    "description": {
+      "translate": "advancements.earraylate.do_work.desc"
+    }
+  },
+  "parent":"earraylate:new_town",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
