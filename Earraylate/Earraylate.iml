@@ -4,10 +4,11 @@
   <component name="FacetManager">
     <facet type="minecraft" name="Minecraft">
       <configuration>
-        <autoDetectTypes>
-          <platformType>FORGE</platformType>
-          <platformType>MCP</platformType>
-        </autoDetectTypes>
+        <userChosenTypes>
+          <map>
+            <entry key="FORGE" value="true" />
+          </map>
+        </userChosenTypes>
       </configuration>
     </facet>
   </component>
