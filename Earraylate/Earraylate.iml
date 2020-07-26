@@ -7,6 +7,7 @@
         <userChosenTypes>
           <map>
             <entry key="FORGE" value="true" />
+            <entry key="MCP" value="true" />
           </map>
         </userChosenTypes>
       </configuration>
