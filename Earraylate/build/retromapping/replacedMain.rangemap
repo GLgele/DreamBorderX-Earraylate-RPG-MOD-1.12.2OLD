@@ -2,33 +2,33 @@ Unsupposrted library path: D:\Users\Administrator\Documents\GitHub\DreamBorderX-
 Unsupposrted library path: D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\resources\api
 Symbol range map extraction starting
 Processing 1 files
-startProcessing "com/dreambx/Earraylate/Earraylate.java" md5: 484c50243c208fc131284f581c690b0b
+startProcessing "com/dreambx/Earraylate/Earraylate.java" md5: a4f20b0916aee2a88c53ff81ca01adeb
 @|com/dreambx/Earraylate/Earraylate.java|8|30|com.dreambx.Earraylate|package|com.dreambx.Earraylate|(file)
 Enum Start: com.dreambx.Earraylate.Earraylate
-   @|com/dreambx/Earraylate/Earraylate.java|838|841|Mod|class|net.minecraftforge.fml.common.Mod|false
-   @|com/dreambx/Earraylate/Earraylate.java|842|847|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
-   @|com/dreambx/Earraylate/Earraylate.java|864|868|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
-   @|com/dreambx/Earraylate/Earraylate.java|885|892|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
-   @|com/dreambx/Earraylate/Earraylate.java|904|915|useMetadata|method|net.minecraftforge.fml.common.Mod|useMetadata|()Z
-   @|com/dreambx/Earraylate/Earraylate.java|937|947|Earraylate|class|com.dreambx.Earraylate.Earraylate|false
-   @|com/dreambx/Earraylate/Earraylate.java|955|963|INSTANCE|field|com.dreambx.Earraylate.Earraylate|INSTANCE
+   @|com/dreambx/Earraylate/Earraylate.java|877|880|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|com/dreambx/Earraylate/Earraylate.java|881|886|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/dreambx/Earraylate/Earraylate.java|903|907|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com/dreambx/Earraylate/Earraylate.java|924|931|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/dreambx/Earraylate/Earraylate.java|943|954|useMetadata|method|net.minecraftforge.fml.common.Mod|useMetadata|()Z
+   @|com/dreambx/Earraylate/Earraylate.java|976|986|Earraylate|class|com.dreambx.Earraylate.Earraylate|false
+   @|com/dreambx/Earraylate/Earraylate.java|994|1002|INSTANCE|field|com.dreambx.Earraylate.Earraylate|INSTANCE
    Method Start: getInstance()Lcom/dreambx/Earraylate/Earraylate;
-      @|com/dreambx/Earraylate/Earraylate.java|1155|1174|Mod.InstanceFactory|class|net.minecraftforge.fml.common.Mod.InstanceFactory|false
-      @|com/dreambx/Earraylate/Earraylate.java|1194|1204|Earraylate|class|com.dreambx.Earraylate.Earraylate|false
-      @|com/dreambx/Earraylate/Earraylate.java|1205|1216|getInstance|method|com.dreambx.Earraylate.Earraylate|getInstance|()Lcom/dreambx/Earraylate/Earraylate;
-      @|com/dreambx/Earraylate/Earraylate.java|1237|1245|INSTANCE|field|com.dreambx.Earraylate.Earraylate|INSTANCE
+      @|com/dreambx/Earraylate/Earraylate.java|1194|1213|Mod.InstanceFactory|class|net.minecraftforge.fml.common.Mod.InstanceFactory|false
+      @|com/dreambx/Earraylate/Earraylate.java|1233|1243|Earraylate|class|com.dreambx.Earraylate.Earraylate|false
+      @|com/dreambx/Earraylate/Earraylate.java|1244|1255|getInstance|method|com.dreambx.Earraylate.Earraylate|getInstance|()Lcom/dreambx/Earraylate/Earraylate;
+      @|com/dreambx/Earraylate/Earraylate.java|1276|1284|INSTANCE|field|com.dreambx.Earraylate.Earraylate|INSTANCE
    Method End: getInstance()Lcom/dreambx/Earraylate/Earraylate;
    Method Start: preLoad(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|com/dreambx/Earraylate/Earraylate.java|3158|3163|event|param|com.dreambx.Earraylate.Earraylate|preLoad|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|3090|3106|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
-      @|com/dreambx/Earraylate/Earraylate.java|3124|3131|preLoad|method|com.dreambx.Earraylate.Earraylate|preLoad|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|com/dreambx/Earraylate/Earraylate.java|3132|3157|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
-      @|com/dreambx/Earraylate/Earraylate.java|3176|3182|System|class|java.lang.System|false
-      @|com/dreambx/Earraylate/Earraylate.java|3183|3186|out|field|java.lang.System|out
-      @|com/dreambx/Earraylate/Earraylate.java|3187|3194|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
-      @|com/dreambx/Earraylate/Earraylate.java|3221|3227|System|class|java.lang.System|false
-      @|com/dreambx/Earraylate/Earraylate.java|3228|3231|out|field|java.lang.System|out
-      @|com/dreambx/Earraylate/Earraylate.java|3232|3239|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com/dreambx/Earraylate/Earraylate.java|5100|5105|event|param|com.dreambx.Earraylate.Earraylate|preLoad|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|5032|5048|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/dreambx/Earraylate/Earraylate.java|5066|5073|preLoad|method|com.dreambx.Earraylate.Earraylate|preLoad|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/dreambx/Earraylate/Earraylate.java|5074|5099|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|com/dreambx/Earraylate/Earraylate.java|5118|5124|System|class|java.lang.System|false
+      @|com/dreambx/Earraylate/Earraylate.java|5125|5128|out|field|java.lang.System|out
+      @|com/dreambx/Earraylate/Earraylate.java|5129|5136|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com/dreambx/Earraylate/Earraylate.java|5163|5169|System|class|java.lang.System|false
+      @|com/dreambx/Earraylate/Earraylate.java|5170|5173|out|field|java.lang.System|out
+      @|com/dreambx/Earraylate/Earraylate.java|5174|5181|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
    Method End: preLoad(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
 Enum End  : com.dreambx.Earraylate.Earraylate
 endProcessing "com/dreambx/Earraylate/Earraylate.java"

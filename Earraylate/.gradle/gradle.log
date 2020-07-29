@@ -16,239 +16,257 @@ This mapping 'snapshot_20171003' was designed for MC 1.12! Use at your own peril
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
 :sourceMainJava
-:compileJavaD:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:10: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+:compileJavaD:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:11: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // Modä¸»ç±»çš„æ ‡è®°ã?‚å…¶ä¸­åªæœ‰modidæ˜¯å¿…å¡«é¡¹ã€?
               ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:10: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:11: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // Modä¸»ç±»çš„æ ‡è®°ã?‚å…¶ä¸­åªæœ‰modidæ˜¯å¿…å¡«é¡¹ã€?
                                  ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:12: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:13: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // modid ä¸å…è®¸ä½¿ç”¨å¤§å†™å­—æ¯ï¼Œæœ?å¤§é•¿åº? 64ï¼Œä¸èƒ½ä¸ºç©ºã??
                          ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:12: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:13: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // modid ä¸å…è®¸ä½¿ç”¨å¤§å†™å­—æ¯ï¼Œæœ?å¤§é•¿åº? 64ï¼Œä¸èƒ½ä¸ºç©ºã??
                               ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:12: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:13: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // modid ä¸å…è®¸ä½¿ç”¨å¤§å†™å­—æ¯ï¼Œæœ?å¤§é•¿åº? 64ï¼Œä¸èƒ½ä¸ºç©ºã??
                                           ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:12: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:13: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // modid ä¸å…è®¸ä½¿ç”¨å¤§å†™å­—æ¯ï¼Œæœ?å¤§é•¿åº? 64ï¼Œä¸èƒ½ä¸ºç©ºã??
                                            ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:13: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:14: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // æ¨èåœ? modid ä¸­åªä½¿ç”¨å°å†™å­—æ¯ã€æ•°å­—ã?è¿å­—ç¬¦å’Œä¸‹åˆ’çº¿ï¼Œæ¢è¨?ä¹‹å³åªä½¿ç”¨æ»¡è¶³æ­£åˆ™è¡¨è¾¾å¼
        ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:13: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:14: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // æ¨èåœ? modid ä¸­åªä½¿ç”¨å°å†™å­—æ¯ã€æ•°å­—ã?è¿å­—ç¬¦å’Œä¸‹åˆ’çº¿ï¼Œæ¢è¨?ä¹‹å³åªä½¿ç”¨æ»¡è¶³æ­£åˆ™è¡¨è¾¾å¼
                                 ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:13: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:14: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // æ¨èåœ? modid ä¸­åªä½¿ç”¨å°å†™å­—æ¯ã€æ•°å­—ã?è¿å­—ç¬¦å’Œä¸‹åˆ’çº¿ï¼Œæ¢è¨?ä¹‹å³åªä½¿ç”¨æ»¡è¶³æ­£åˆ™è¡¨è¾¾å¼
                                                 ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:14: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:15: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // [a-z0-9\-_]{1,64} çš? modidã€?
                       ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:14: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:15: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // [a-z0-9\-_]{1,64} çš? modidã€?
                               ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:15: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:16: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // å‘ç°ä¸ç¬¦åˆè¦æ±‚çš„ modid æ—¶ï¼Œä¼šæŠ›å‡? IllegalArgumentException é˜»æ­¢æ¸¸æˆå¯åŠ¨ã€?
                              ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:15: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:16: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // å‘ç°ä¸ç¬¦åˆè¦æ±‚çš„ modid æ—¶ï¼Œä¼šæŠ›å‡? IllegalArgumentException é˜»æ­¢æ¸¸æˆå¯åŠ¨ã€?
                                                                   ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:17: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:18: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // name æ²¡æœ‰é™åˆ¶ã€‚è‹¥ä¸å¡«åˆ™ç›´æ¥ä½¿ç”? modid å……å½“ nameï¼Œä½†ä»ç„¶ä¼šäº§ç”Ÿè­¦å‘Šã??
                            ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:17: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:18: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // name æ²¡æœ‰é™åˆ¶ã€‚è‹¥ä¸å¡«åˆ™ç›´æ¥ä½¿ç”? modid å……å½“ nameï¼Œä½†ä»ç„¶ä¼šäº§ç”Ÿè­¦å‘Šã??
                                                          ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:17: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:18: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // name æ²¡æœ‰é™åˆ¶ã€‚è‹¥ä¸å¡«åˆ™ç›´æ¥ä½¿ç”? modid å……å½“ nameï¼Œä½†ä»ç„¶ä¼šäº§ç”Ÿè­¦å‘Šã??
                                                           ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:18: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:19: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // ä¸?èˆ¬æ¥è¯´ï¼Œname éƒ½æ»¡è¶³æ­£åˆ™è¡¨è¾¾å¼ [\w ]+ã€‚ä½†ä¹Ÿæœ‰å°‘è®¸ä¾‹å¤–ã€?
     ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:18: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:19: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // ä¸?èˆ¬æ¥è¯´ï¼Œname éƒ½æ»¡è¶³æ­£åˆ™è¡¨è¾¾å¼ [\w ]+ã€‚ä½†ä¹Ÿæœ‰å°‘è®¸ä¾‹å¤–ã€?
                                                 ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:20: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:21: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // version æ²¡æœ‰é™åˆ¶ï¼Œè‹¥ä¸å¡«åˆ™ä½¿ç”? 1.0ï¼Œå¹¶äº§ç”Ÿè­¦å‘Šã€?
                            ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:20: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:21: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // version æ²¡æœ‰é™åˆ¶ï¼Œè‹¥ä¸å¡«åˆ™ä½¿ç”? 1.0ï¼Œå¹¶äº§ç”Ÿè­¦å‘Šã€?
                                           ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:21: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:22: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // å¯¹äº version æ¥è¯´ï¼?***å¼ºçƒˆ***æ¨èåªç”¨æ•°å­—å’Œç‚¹ï¼Œæ¯”å¦‚åªæœ? MAJOR.MINOR.PATCH çš? SemVerã€?
                    ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:21: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:22: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // å¯¹äº version æ¥è¯´ï¼?***å¼ºçƒˆ***æ¨èåªç”¨æ•°å­—å’Œç‚¹ï¼Œæ¯”å¦‚åªæœ? MAJOR.MINOR.PATCH çš? SemVerã€?
                                                 ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:21: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:22: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // å¯¹äº version æ¥è¯´ï¼?***å¼ºçƒˆ***æ¨èåªç”¨æ•°å­—å’Œç‚¹ï¼Œæ¯”å¦‚åªæœ? MAJOR.MINOR.PATCH çš? SemVerã€?
                                                                      ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:21: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:22: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // å¯¹äº version æ¥è¯´ï¼?***å¼ºçƒˆ***æ¨èåªç”¨æ•°å­—å’Œç‚¹ï¼Œæ¯”å¦‚åªæœ? MAJOR.MINOR.PATCH çš? SemVerã€?
                                                                               ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:23: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:24: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // useMetadata = true è®? Forge ä»? mcmod.info é‡Œçš„ä¿¡æ¯ä¸ºå‡†ã€‚å®ƒçš„æ ¼å¼åœ¨â€œMod çš„å…ƒæ•°æ®â€ä¸€èŠ?
                        ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:23: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:24: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // useMetadata = true è®? Forge ä»? mcmod.info é‡Œçš„ä¿¡æ¯ä¸ºå‡†ã€‚å®ƒçš„æ ¼å¼åœ¨â€œMod çš„å…ƒæ•°æ®â€ä¸€èŠ?
                                 ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:23: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:24: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // useMetadata = true è®? Forge ä»? mcmod.info é‡Œçš„ä¿¡æ¯ä¸ºå‡†ã€‚å®ƒçš„æ ¼å¼åœ¨â€œMod çš„å…ƒæ•°æ®â€ä¸€èŠ?
                                                                               ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:24: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:25: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
 // ä¼šæœ‰è¯¦ç»†è¯´æ˜ã€?
              ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:29: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:30: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // Mod ä¸»ç±»å®ä¾‹çš„â?œå·¥å‚â?ã??
                    ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:29: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:30: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // Mod ä¸»ç±»å®ä¾‹çš„â?œå·¥å‚â?ã??
                         ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:29: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:30: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // Mod ä¸»ç±»å®ä¾‹çš„â?œå·¥å‚â?ã??
                           ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:29: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:30: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // Mod ä¸»ç±»å®ä¾‹çš„â?œå·¥å‚â?ã??
                            ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:30: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:31: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // åˆ«çš„ Mod å¼?å‘æ•™ç¨‹è‚¯å®šä½¿ç”¨çš„æ˜¯@Mod.Instance
                 ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:31: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:32: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // è¿™é‡Œä¹‹æ‰€ä»¥è¿™ä¹ˆå†™ï¼Œæ˜¯å› ä¸ºä¸»ç±»æ˜? enumï¼Œæ¢è¨?ä¹‹çˆ¶ç±»æ˜¯ java.lang.Enum
                              ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:31: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:32: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // è¿™é‡Œä¹‹æ‰€ä»¥è¿™ä¹ˆå†™ï¼Œæ˜¯å› ä¸ºä¸»ç±»æ˜? enumï¼Œæ¢è¨?ä¹‹çˆ¶ç±»æ˜¯ java.lang.Enum
                                        ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:32: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:33: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // å› æ­¤ï¼ŒFML ç›´æ¥ Class.newInstance() çš„è¯ä¸?å®šä¼šæŠ¥é”™ï¼Œjava.lang.Enum æ²¡æœ‰é›¶å‚æ„é? å™¨
                                            ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:32: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:33: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // å› æ­¤ï¼ŒFML ç›´æ¥ Class.newInstance() çš„è¯ä¸?å®šä¼šæŠ¥é”™ï¼Œjava.lang.Enum æ²¡æœ‰é›¶å‚æ„é? å™¨
                                                                           ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:38: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:39: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // ä¸?ä¸ªå…¥å£æ–¹æ³•ã??
         ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:38: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:39: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // ä¸?ä¸ªå…¥å£æ–¹æ³•ã??
                  ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:38: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:39: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // ä¸?ä¸ªå…¥å£æ–¹æ³•ã??
                   ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:39: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:40: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // Modçš„åŠ è½½å¤§è‡´åˆ†ä¸? 6 ä¸ªé˜¶æ®µï¼Œæ¯ä¸ªé˜¶æ®µå‡æœ‰ä¸?ä¸ªäº‹ä»¶ä»£è¡¨ï¼Œ
                     ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:39: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:40: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // Modçš„åŠ è½½å¤§è‡´åˆ†ä¸? 6 ä¸ªé˜¶æ®µï¼Œæ¯ä¸ªé˜¶æ®µå‡æœ‰ä¸?ä¸ªäº‹ä»¶ä»£è¡¨ï¼Œ
                                         ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:40: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:41: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // è€? @Mod.EventHandler æ³¨è§£åˆ™æ ‡è®°è¯¥æ–¹æ³•å°†è®¢é˜…æ­¤äº‹ä»¶ã€?
         ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:40: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:41: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // è€? @Mod.EventHandler æ³¨è§£åˆ™æ ‡è®°è¯¥æ–¹æ³•å°†è®¢é˜…æ­¤äº‹ä»¶ã€?
                                                   ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:48: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:49: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // å…¶ä¸­ï¼ŒPreInit.ã€Init.ã€IMCEvent å’? PostInit. æ˜¯æœ€å¸¸ç”¨çš„å››ä¸ªäº‹ä»¶ï¼Œ
                                     ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:49: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:50: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // å‰©ä¸‹ä¸¤ä¸ªäº‹ä»¶åªæœ‰åœ¨ç›¸å½“å°‘è§çš„æƒ…å†µä¸‹æ‰ä¼šç”¨åˆ°ï¼Œå¤§å¯æš‚æ—¶æ— è§†ã€?
                                                   ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:54: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:55: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // æˆ‘ä»¬ä¸?ä¼šä¼šç”¨åˆ°å®ƒã??
                ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:54: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:55: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // æˆ‘ä»¬ä¸?ä¼šä¼šç”¨åˆ°å®ƒã??
                         ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:54: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:55: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // æˆ‘ä»¬ä¸?ä¼šä¼šç”¨åˆ°å®ƒã??
                          ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:57: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:58: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // å’Œæ­£å¸¸çš„äº‹ä»¶ä¸?æ ·ï¼Œä½ ä¸éœ?è¦æ‰‹åŠ¨è°ƒç”¨æ­¤æ–¹æ³•ï¼Forge ä¼šè‡ªåŠ¨è°ƒç”¨å®ƒçš„ã??
                      ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:57: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:58: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // å’Œæ­£å¸¸çš„äº‹ä»¶ä¸?æ ·ï¼Œä½ ä¸éœ?è¦æ‰‹åŠ¨è°ƒç”¨æ­¤æ–¹æ³•ï¼Forge ä¼šè‡ªåŠ¨è°ƒç”¨å®ƒçš„ã??
                              ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:57: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:58: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // å’Œæ­£å¸¸çš„äº‹ä»¶ä¸?æ ·ï¼Œä½ ä¸éœ?è¦æ‰‹åŠ¨è°ƒç”¨æ­¤æ–¹æ³•ï¼Forge ä¼šè‡ªåŠ¨è°ƒç”¨å®ƒçš„ã??
                                                             ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:57: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:58: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // å’Œæ­£å¸¸çš„äº‹ä»¶ä¸?æ ·ï¼Œä½ ä¸éœ?è¦æ‰‹åŠ¨è°ƒç”¨æ­¤æ–¹æ³•ï¼Forge ä¼šè‡ªåŠ¨è°ƒç”¨å®ƒçš„ã??
                                                              ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:63: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:64: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
             // æ³¨æ„ setRegistryName è°ƒç”¨ã€?
                                        ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:64: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:65: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
             // æ¯ä¸€ä¸ªç‰©å“éƒ½å¯¹åº”å”¯ä¸€ä¸?ä¸ªæ³¨å†Œåï¼Œç”¨äºå’Œå…¶ä»–ç‰©å“åŒºåˆ†å¼?æ¥ã?‚è¿™ä¸ªæ³¨å†Œåä¸èƒ½å«æœ‰å¤§å†™å­—æ¯ã€?
                                ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:64: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:65: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
             // æ¯ä¸€ä¸ªç‰©å“éƒ½å¯¹åº”å”¯ä¸€ä¸?ä¸ªæ³¨å†Œåï¼Œç”¨äºå’Œå…¶ä»–ç‰©å“åŒºåˆ†å¼?æ¥ã?‚è¿™ä¸ªæ³¨å†Œåä¸èƒ½å«æœ‰å¤§å†™å­—æ¯ã€?
                                                       ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:64: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:65: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
             // æ¯ä¸€ä¸ªç‰©å“éƒ½å¯¹åº”å”¯ä¸€ä¸?ä¸ªæ³¨å†Œåï¼Œç”¨äºå’Œå…¶ä»–ç‰©å“åŒºåˆ†å¼?æ¥ã?‚è¿™ä¸ªæ³¨å†Œåä¸èƒ½å«æœ‰å¤§å†™å­—æ¯ã€?
                                                          ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:64: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:65: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
             // æ¯ä¸€ä¸ªç‰©å“éƒ½å¯¹åº”å”¯ä¸€ä¸?ä¸ªæ³¨å†Œåï¼Œç”¨äºå’Œå…¶ä»–ç‰©å“åŒºåˆ†å¼?æ¥ã?‚è¿™ä¸ªæ³¨å†Œåä¸èƒ½å«æœ‰å¤§å†™å­—æ¯ã€?
                                                                                ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:65: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:66: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
             // æ­¤æ–¹æ³•è¿”å›è¢«æ³¨å†Œçš? Item å¯¹è±¡ã€?
                             ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:65: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:66: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
             // æ­¤æ–¹æ³•è¿”å›è¢«æ³¨å†Œçš? Item å¯¹è±¡ã€?
                                        ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:69: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:70: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
                             // æ³¨æ„æ­¤åå­—å’Œ registry name ä¸æ˜¯ä¸?ä¸ªæ¦‚å¿µã??
                                                            ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:69: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:70: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
                             // æ³¨æ„æ­¤åå­—å’Œ registry name ä¸æ˜¯ä¸?ä¸ªæ¦‚å¿µã??
                                                                  ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:69: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:70: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
                             // æ³¨æ„æ­¤åå­—å’Œ registry name ä¸æ˜¯ä¸?ä¸ªæ¦‚å¿µã??
                                                                   ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:70: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:71: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
                             // è¿™ä¸ªåå­—ä»…ç”¨äºå›½é™…åŒ–æ”¯æŒã€?
                                                   ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:71: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:72: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
                             // è¿™ä¸ªæ–¹æ³•ä¹Ÿè¿”å›? Itemã€?
                                          ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:71: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:72: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
                             // è¿™ä¸ªæ–¹æ³•ä¹Ÿè¿”å›? Itemã€?
                                                 ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:77: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:78: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // æˆ‘ä»¬éœ?è¦ä¸€ä¸? CreativeTabs çš„å®ä¾‹ï¼Œå½“ç„¶é‚£ä¸ªç±»ä¸‹é¢å°±æœ‰åŸç‰ˆçš„ 10 ä¸ªï¼Œå¯ä»¥ç›´æ¥æ‹¿æ¥ç”¨ï¼Œ
            ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:77: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:78: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // æˆ‘ä»¬éœ?è¦ä¸€ä¸? CreativeTabs çš„å®ä¾‹ï¼Œå½“ç„¶é‚£ä¸ªç±»ä¸‹é¢å°±æœ‰åŸç‰ˆçš„ 10 ä¸ªï¼Œå¯ä»¥ç›´æ¥æ‹¿æ¥ç”¨ï¼Œ
                 ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:78: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:79: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // ä½†æ˜¯ä½ ä¸è§‰å¾—æœ‰ä¸€ä¸ªè‡ªå·±çš„æ›´æ–¹ä¾¿å—â€¦â??
                                  ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:78: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:79: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // ä½†æ˜¯ä½ ä¸è§‰å¾—æœ‰ä¸€ä¸ªè‡ªå·±çš„æ›´æ–¹ä¾¿å—â€¦â??
                                   ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:79: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:80: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // ä¸?èˆ¬æ˜¯ä½¿ç”¨åŒ¿åå†…éƒ¨ç±»ï¼Œå°±åƒè¿™æ ·ã€?
         ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:79: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:80: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
     // ä¸?èˆ¬æ˜¯ä½¿ç”¨åŒ¿åå†…éƒ¨ç±»ï¼Œå°±åƒè¿™æ ·ã€?
                                ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:81: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:82: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // è·å¾—ç”¨ä½œæ ‡ç­¾å›¾æ ‡çš? ItemStackã€‚ä½ å¤§å¯ä»¥å¾€é‡Œé¢å¡å„ç§å¥‡å¥‡æ?ªæ?ªçš„æ•°æ®ã€?
                         ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:81: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:82: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // è·å¾—ç”¨ä½œæ ‡ç­¾å›¾æ ‡çš? ItemStackã€‚ä½ å¤§å¯ä»¥å¾€é‡Œé¢å¡å„ç§å¥‡å¥‡æ?ªæ?ªçš„æ•°æ®ã€?
                                                        ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:81: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:82: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // è·å¾—ç”¨ä½œæ ‡ç­¾å›¾æ ‡çš? ItemStackã€‚ä½ å¤§å¯ä»¥å¾€é‡Œé¢å¡å„ç§å¥‡å¥‡æ?ªæ?ªçš„æ•°æ®ã€?
                                                          ^
-D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:81: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:82: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
         // è·å¾—ç”¨ä½œæ ‡ç­¾å›¾æ ‡çš? ItemStackã€‚ä½ å¤§å¯ä»¥å¾€é‡Œé¢å¡å„ç§å¥‡å¥‡æ?ªæ?ªçš„æ•°æ®ã€?
                                                                 ^
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:99: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+    // æ³¨æ„åˆ°æ³¨å†Œåå’Œæ„é€ æ—¶ä¼ å…¥çš„é‚£ä¸ªâ?œéŸ³æ•ˆåâ€ä¸æ˜¯ä¸€å›äº‹ã€?
+                              ^
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:99: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+    // æ³¨æ„åˆ°æ³¨å†Œåå’Œæ„é€ æ—¶ä¼ å…¥çš„é‚£ä¸ªâ?œéŸ³æ•ˆåâ€ä¸æ˜¯ä¸€å›äº‹ã€?
+                                              ^
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:100: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+    // é€šå¸¸ï¼Œä¸ºç®?å•èµ·è§ï¼Œä¸?èˆ¬ä¼šåœ¨è¿™ä¸¤ä¸ªåœ°æ–¹ä½¿ç”¨åŒæ ·çš„åå­—ã??
+              ^
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:100: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+    // é€šå¸¸ï¼Œä¸ºç®?å•èµ·è§ï¼Œä¸?èˆ¬ä¼šåœ¨è¿™ä¸¤ä¸ªåœ°æ–¹ä½¿ç”¨åŒæ ·çš„åå­—ã??
+                      ^
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:100: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+    // é€šå¸¸ï¼Œä¸ºç®?å•èµ·è§ï¼Œä¸?èˆ¬ä¼šåœ¨è¿™ä¸¤ä¸ªåœ°æ–¹ä½¿ç”¨åŒæ ·çš„åå­—ã??
+                                              ^
+D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\sources\main\java\com\dreambx\Earraylate\Earraylate.java:100: ´íÎó: ±àÂëGBKµÄ²»¿ÉÓ³Éä×Ö·û
+    // é€šå¸¸ï¼Œä¸ºç®?å•èµ·è§ï¼Œä¸?èˆ¬ä¼šåœ¨è¿™ä¸¤ä¸ªåœ°æ–¹ä½¿ç”¨åŒæ ·çš„åå­—ã??
+                                               ^
 
-:processResources
+:processResources UP-TO-DATE
 :classes
 :jar
-:sourceTestJava
+:sourceTestJava UP-TO-DATE
 :compileTestJava UP-TO-DATE
 :processTestResources UP-TO-DATE
 :testClasses UP-TO-DATE
@@ -271,4 +289,4 @@ remapping source...
 
 BUILD SUCCESSFUL
 
-Total time: 9.069 secs
+Total time: 10.287 secs

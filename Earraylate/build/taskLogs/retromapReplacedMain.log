@@ -8,5 +8,6 @@ Import: net.minecraftforge.fml.common.Mod.EventHandler
 Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
 Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
 Import: org.apache.logging.log4j.Logger
+Import: net.minecraft.util.SoundEvent
 End  Processing: com/dreambx/Earraylate/Earraylate.java
 

@@ -86,14 +86,14 @@ public enum Earraylate {
         }
     };
     */
-
+    /*
     public static final SoundEvent BLOOD_AND_GUTS = new SoundEvent(new ResourceLocation("earraylate", "blood_and_guts"));
-    public static final SoundEvent BLOOD_AND_GUTS = new SoundEvent(new ResourceLocation("earraylate", "failboat103 - excalibuuur"));
-    public static final SoundEvent BLOOD_AND_GUTS = new SoundEvent(new ResourceLocation("earraylate", "thekyleb - 7 by 8"));
-    public static final SoundEvent BLOOD_AND_GUTS = new SoundEvent(new ResourceLocation("earraylate", "thekyleb - bard"));
-    public static final SoundEvent BLOOD_AND_GUTS = new SoundEvent(new ResourceLocation("earraylate", "good_battle_04"));
-    public static final SoundEvent BLOOD_AND_GUTS = new SoundEvent(new ResourceLocation("earraylate", "ts1"));
-    public static final SoundEvent BLOOD_AND_GUTS = new SoundEvent(new ResourceLocation("earraylate", "ts2"));
+    public static final SoundEvent FAILBOAT103_EXCALIBUUUR = new SoundEvent(new ResourceLocation("earraylate", "failboat103 - excalibuuur"));
+    public static final SoundEvent THEKYLEB_7BY8 = new SoundEvent(new ResourceLocation("earraylate", "thekyleb - 7 by 8"));
+    public static final SoundEvent THEKYLEB_BARD = new SoundEvent(new ResourceLocation("earraylate", "thekyleb - bard"));
+    public static final SoundEvent GOOD_BATTLE_04 = new SoundEvent(new ResourceLocation("earraylate", "good_battle_04"));
+    public static final SoundEvent TS1 = new SoundEvent(new ResourceLocation("earraylate", "ts1"));
+    public static final SoundEvent TS2 = new SoundEvent(new ResourceLocation("earraylate", "ts2"));
 
 
     // 注意到注册名和构造时传入的那个“音效名”不是一回事。
@@ -101,14 +101,14 @@ public enum Earraylate {
     @SubscribeEvent
     public static void onSoundEvenrRegistration(RegistryEvent.Register<SoundEvent> event) {
         event.getRegistry().register(BLOOD_AND_GUTS.setRegistryName(new ResourceLocation("earraylate", "blood_and_guts")));
-        event.getRegistry().register(BLOOD_AND_GUTS.setRegistryName(new ResourceLocation("earraylate", "failboat103 - excalibuuur")));
-        event.getRegistry().register(BLOOD_AND_GUTS.setRegistryName(new ResourceLocation("earraylate", "thekyleb - 7 by 8")));
-        event.getRegistry().register(BLOOD_AND_GUTS.setRegistryName(new ResourceLocation("earraylate", "thekyleb - bard")));
-        event.getRegistry().register(BLOOD_AND_GUTS.setRegistryName(new ResourceLocation("earraylate", "good_battle_04")));
-        event.getRegistry().register(BLOOD_AND_GUTS.setRegistryName(new ResourceLocation("earraylate", "ts1")));
-        event.getRegistry().register(BLOOD_AND_GUTS.setRegistryName(new ResourceLocation("earraylate", "ts2")));
+        event.getRegistry().register(FAILBOAT103_EXCALIBUUUR.setRegistryName(new ResourceLocation("earraylate", "failboat103 - excalibuuur")));
+        event.getRegistry().register(THEKYLEB_7BY8.setRegistryName(new ResourceLocation("earraylate", "thekyleb - 7 by 8")));
+        event.getRegistry().register(THEKYLEB_BARD.setRegistryName(new ResourceLocation("earraylate", "thekyleb - bard")));
+        event.getRegistry().register(GOOD_BATTLE_04.setRegistryName(new ResourceLocation("earraylate", "good_battle_04")));
+        event.getRegistry().register(TS1.setRegistryName(new ResourceLocation("earraylate", "ts1")));
+        event.getRegistry().register(TS2.setRegistryName(new ResourceLocation("earraylate", "ts2")));
     }
-
+    */
     @Mod.EventHandler
     public void preLoad(FMLPreInitializationEvent event) {
         System.out.println("Hello, Forge");
