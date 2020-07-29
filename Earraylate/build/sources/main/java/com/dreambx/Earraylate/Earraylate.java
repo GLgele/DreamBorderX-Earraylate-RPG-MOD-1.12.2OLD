@@ -48,7 +48,7 @@ public enum Earraylate {
     // 其中，PreInit.、Init.、IMCEvent 和 PostInit. 是最常用的四个事件，
     // 剩下两个事件只有在相当少见的情况下才会用到，大可暂时无视。
 
-    @Mod.EventBusSubscriber(modid = "earraylate")
+    /*@Mod.EventBusSubscriber(modid = "earraylate")
     public final class ItemInitializer {
 
         // 我们一会会用到它。
@@ -84,7 +84,7 @@ public enum Earraylate {
             return new ItemStack(Items.DIAMOND);
         }
     };
-
+    */
     @Mod.EventHandler
     public void preLoad(FMLPreInitializationEvent event) {
         System.out.println("Hello, Forge");
