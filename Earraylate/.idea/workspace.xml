@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project version="4">
   <component name="BranchesTreeState">
     <expand>
       <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor"/>
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor"/>
       </path>
       <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor"/>
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor"/>
       </path>
       <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor"/>
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor"/>
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor"/>
       </path>
     </expand>
-    <select />
+    <select/>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b05b30f1-8b40-4ee8-83e6-55404b165fbe" name="Default Changelist" comment="" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
+    <list comment="" default="true" id="b05b30f1-8b40-4ee8-83e6-55404b165fbe" name="Default Changelist"/>
+    <option name="SHOW_DIALOG" value="false"/>
+    <option name="HIGHLIGHT_CONFLICTS" value="true"/>
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+    <option name="LAST_RESOLUTION" value="IGNORE"/>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
-      <ProjectState />
+      <ProjectState/>
     </projectState>
   </component>
   <component name="ExternalProjectsManager">
@@ -35,198 +35,228 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
-            <select />
+            <expand/>
+            <select/>
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.."/>
   </component>
-  <component name="ProjectId" id="1cKqtO8JL41PlA3w4nFintvvX9o" />
+  <component id="1cKqtO8JL41PlA3w4nFintvvX9o" name="ProjectId"/>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting id="Add" value="2"/>
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true"/>
+    <option name="showLibraryContents" value="true"/>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Earraylate.iml" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
-    <property name="show.unlinked.gradle.project.popup" value="true" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true"/>
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true"/>
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true"/>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Earraylate.iml"/>
+    <property name="project.structure.last.edited" value="Modules"/>
+    <property name="project.structure.proportion" value="0.15"/>
+    <property name="project.structure.side.proportion" value="0.2"/>
+    <property name="settings.editor.selected.configurable" value="debugger.stepping"/>
+    <property name="show.unlinked.gradle.project.popup" value="true"/>
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
-    <configuration name="Minecraft Client" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="GradleStart" />
-      <module name="Earraylate" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eclipse" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+    <configuration factoryName="Application" name="Minecraft Client" type="Application">
+      <option name="MAIN_CLASS_NAME" value="GradleStart"/>
+      <module name="Earraylate"/>
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eclipse"/>
+      <RunnerSettings RunnerId="Run"/>
+      <ConfigurationWrapper RunnerId="Run"/>
       <method v="2">
-        <option name="Make" enabled="true" />
+        <option enabled="true" name="Make"/>
       </method>
     </configuration>
     <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
-      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
-      <option name="MAIN_CLASS_NAME" value="GradleStart" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Earraylate\run" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Earraylate_main" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
+      <option name="MAIN_CLASS_NAME" value="GradleStart"/>
+      <option name="VM_PARAMETERS" value=""/>
+      <option name="PROGRAM_PARAMETERS" value=""/>
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Earraylate\run"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH" value=""/>
+      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <module name="Earraylate_main"/>
+      <RunnerSettings RunnerId="Run"/>
+      <ConfigurationWrapper RunnerId="Run"/>
     </configuration>
     <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
-      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
-      <option name="MAIN_CLASS_NAME" value="GradleStart" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Earraylate\run" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Earraylate_main" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
+      <option name="MAIN_CLASS_NAME" value="GradleStart"/>
+      <option name="VM_PARAMETERS" value=""/>
+      <option name="PROGRAM_PARAMETERS" value=""/>
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Earraylate\run"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH" value=""/>
+      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <module name="Earraylate_main"/>
+      <RunnerSettings RunnerId="Run"/>
+      <ConfigurationWrapper RunnerId="Run"/>
     </configuration>
-    <configuration name="Minecraft Server" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
-      <module name="Earraylate" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eclipse" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+    <configuration factoryName="Application" name="Minecraft Server" type="Application">
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer"/>
+      <module name="Earraylate"/>
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eclipse"/>
+      <RunnerSettings RunnerId="Run"/>
+      <ConfigurationWrapper RunnerId="Run"/>
       <method v="2">
-        <option name="Make" enabled="true" />
+        <option enabled="true" name="Make"/>
       </method>
     </configuration>
     <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
-      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
-      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Earraylate\run" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Earraylate_main" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer"/>
+      <option name="VM_PARAMETERS" value=""/>
+      <option name="PROGRAM_PARAMETERS" value=""/>
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Earraylate\run"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH" value=""/>
+      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <module name="Earraylate_main"/>
+      <RunnerSettings RunnerId="Run"/>
+      <ConfigurationWrapper RunnerId="Run"/>
     </configuration>
     <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
-      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
-      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Earraylate\run" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Earraylate_main" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer"/>
+      <option name="VM_PARAMETERS" value=""/>
+      <option name="PROGRAM_PARAMETERS" value=""/>
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Earraylate\run"/>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+      <option name="ALTERNATIVE_JRE_PATH" value=""/>
+      <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+      <option name="ENV_VARIABLES"/>
+      <option name="PASS_PARENT_ENVS" value="true"/>
+      <module name="Earraylate_main"/>
+      <RunnerSettings RunnerId="Run"/>
+      <ConfigurationWrapper RunnerId="Run"/>
     </configuration>
     <configuration default="true" type="JarApplication">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/../Earraaylate.zip" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../Earraaylate.zip"/>
+      <option name="ALTERNATIVE_JRE_PATH"/>
+      <method v="2"/>
     </configuration>
     <list>
-      <item itemvalue="Application.Minecraft Client" />
-      <item itemvalue="Application.Minecraft Server" />
+      <item itemvalue="Application.Minecraft Client"/>
+      <item itemvalue="Application.Minecraft Server"/>
     </list>
-  </component>
+  <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+            <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
+            <option name="MAIN_CLASS_NAME" value="GradleStart"/>
+            <option name="VM_PARAMETERS" value=""/>
+            <option name="PROGRAM_PARAMETERS" value=""/>
+            <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$\run"/>
+            <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+            <option name="ALTERNATIVE_JRE_PATH" value=""/>
+            <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+            <option name="ENV_VARIABLES"/>
+            <option name="PASS_PARENT_ENVS" value="true"/>
+            <module name="Earraylate_main"/>
+            <RunnerSettings RunnerId="Run"/>
+            <ConfigurationWrapper RunnerId="Run"/>
+        </configuration>
+        <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+            <extension enabled="false" name="coverage" runner="idea" sample_coverage="true"/>
+            <option name="MAIN_CLASS_NAME" value="GradleStartServer"/>
+            <option name="VM_PARAMETERS" value=""/>
+            <option name="PROGRAM_PARAMETERS" value=""/>
+            <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$\run"/>
+            <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
+            <option name="ALTERNATIVE_JRE_PATH" value=""/>
+            <option name="ENABLE_SWING_INSPECTOR" value="false"/>
+            <option name="ENV_VARIABLES"/>
+            <option name="PASS_PARENT_ENVS" value="true"/>
+            <module name="Earraylate_main"/>
+            <RunnerSettings RunnerId="Run"/>
+            <ConfigurationWrapper RunnerId="Run"/>
+        </configuration>
+    </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration/>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b05b30f1-8b40-4ee8-83e6-55404b165fbe" name="Default Changelist" comment="" />
+      <changelist comment="" id="b05b30f1-8b40-4ee8-83e6-55404b165fbe" name="Default Changelist"/>
       <created>1590287846262</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
+      <option name="number" value="Default"/>
+      <option name="presentableId" value="Default"/>
       <updated>1590287846262</updated>
     </task>
-    <servers />
+    <servers/>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State/>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="oldMeFiltersMigrated" value="true"/>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true"/>
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="226" key="#JSON" timestamp="1590309845757">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="#JSON" timestamp="1590309845757" x="743" y="226">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="743" y="226" key="#JSON/0.0.1920.1040@0.0.1920.1040" timestamp="1590309845757" />
-    <state x="629" y="134" key="#Minecraft_Client" timestamp="1592617531276">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="#JSON/0.0.1920.1040@0.0.1920.1040" timestamp="1590309845757" x="743" y="226"/>
+    <state key="#Minecraft_Client" timestamp="1592617531276" x="629" y="134">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="629" y="134" key="#Minecraft_Client/0.0.1920.1040@0.0.1920.1040" timestamp="1592617531276" />
-    <state x="629" y="134" key="#Minecraft_Server" timestamp="1590289688786">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="#Minecraft_Client/0.0.1920.1040@0.0.1920.1040" timestamp="1592617531276" x="629" y="134"/>
+    <state key="#Minecraft_Server" timestamp="1590289688786" x="629" y="134">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="629" y="134" key="#Minecraft_Server/0.0.1920.1040@0.0.1920.1040" timestamp="1590289688786" />
-    <state x="440" y="93" key="#Project_Structure" timestamp="1592618313184">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="#Minecraft_Server/0.0.1920.1040@0.0.1920.1040" timestamp="1590289688786" x="629" y="134"/>
+    <state key="#Project_Structure" timestamp="1592618313184" x="440" y="93">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592618313184" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592626109679">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592618313184" x="440" y="93"/>
+    <state key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592626109679" x="414" y="174">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592626109679" />
-    <state x="694" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594348315932">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592626109679" x="414" y="174"/>
+    <state key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594348315932" x="694" y="319">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="694" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594348315932" />
-    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592617334552">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594348315932" x="694" y="319"/>
+    <state key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592617334552" x="689" y="308">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592617334552" />
-    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592100568810">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592617334552" x="689" y="308"/>
+    <state key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592100568810" x="640" y="254">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592100568810" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1594261222690">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592100568810" x="640" y="254"/>
+    <state key="FileChooserDialogImpl" timestamp="1594261222690" x="740" y="274">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594261222690" />
-    <state x="461" y="151" key="SettingsEditor" timestamp="1594261223835">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594261222690" x="740" y="274"/>
+    <state key="SettingsEditor" timestamp="1594261223835" x="461" y="151">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594261223835" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594359508606">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594261223835" x="461" y="151"/>
+    <state height="678" key="search.everywhere.popup" timestamp="1594359508606" width="672" x="623" y="225">
+      <screen height="1040" width="1920" x="0" y="0"/>
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594359508606" />
+    <state height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594359508606" width="672" x="623" y="225"/>
   </component>
 </project>
