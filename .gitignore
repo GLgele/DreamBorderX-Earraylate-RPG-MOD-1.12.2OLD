@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 #hs_err_pid*
+*.lock
+/Earraylate/gradle/caches/4.8.1
+/Earraylate/gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl
+/Earraylate/gradle/caches/modules-2/files-2.1/org.scala-lang.plugins

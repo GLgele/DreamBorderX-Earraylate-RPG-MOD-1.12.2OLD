@@ -5,9 +5,9 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import org.apache.logging.log4j.Logger;
 import net.minecraft.util.SoundEvent;
 
+/*
 // Mod主类的标记。其中只有modid是必填项。
 //
 // modid 不允许使用大写字母，最大长度 64，不能为空。
@@ -23,7 +23,9 @@ import net.minecraft.util.SoundEvent;
 //
 // useMetadata = true 让 Forge 以 mcmod.info 里的信息为准。它的格式在“Mod 的元数据”一节
 // 会有详细说明。
-@Mod(modid = "earraylate", name = "Earraylate", version = "1.0.0", useMetadata = true)
+ */
+
+@Mod(modid = "earraylate", name = "Earraylate", version = "0.0.1", useMetadata = true)
 public enum Earraylate {
     INSTANCE;
 
