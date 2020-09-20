@@ -104,7 +104,7 @@ public enum Earraylate {
     // 注意到注册名和构造时传入的那个“音效名”不是一回事。
     // 通常，为简单起见，一般会在这两个地方使用同样的名字。
     @SubscribeEvent
-    public static void onSoundEvenrRegistration(RegistryEvent.Register<SoundEvent> event) {
+    public static void onSoundEventRegistration(RegistryEvent.Register<SoundEvent> event) {
         event.getRegistry().register(BLOOD_AND_GUTS);
         event.getRegistry().register(FAILBOAT103_EXCALIBUUUR);
         event.getRegistry().register(THEKYLEB_7BY8);
