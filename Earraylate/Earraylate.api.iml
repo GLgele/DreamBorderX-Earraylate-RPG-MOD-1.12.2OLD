@@ -3,11 +3,19 @@
   <component name="FacetManager">
     <facet type="minecraft" name="Minecraft">
       <configuration>
+        <userChosenTypes>
+          <map>
+            <entry key="MCP" value="true" />
+          </map>
+        </userChosenTypes>
         <autoDetectTypes>
           <platformType>FORGE</platformType>
         </autoDetectTypes>
       </configuration>
     </facet>
+  </component>
+  <component name="McpModuleSettings">
+    <option name="srgType" value="SRG" />
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
@@ -32,6 +40,14 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.minecraftforge:forgeBin:1.12.2-14.23.5.2847" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/gradle/caches/minecraft/deobfedDeps/net/minecraftforge/forgebin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

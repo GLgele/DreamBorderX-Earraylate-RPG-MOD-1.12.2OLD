@@ -2,171 +2,159 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <resourceExtensions>
-      <entry name=".+\.(properties|xml|html|dtd|tld)" />
-      <entry name=".+\.(gif|png|jpeg|jpg)" />
+      <entry name=".+\.(properties|xml|html|dtd|tld)"/>
+      <entry name=".+\.(gif|png|jpeg|jpg)"/>
     </resourceExtensions>
     <wildcardResourcePatterns>
-      <entry name="!?*.class" />
-      <entry name="!?*.scala" />
-      <entry name="!?*.groovy" />
-      <entry name="!?*.java" />
+      <entry name="!?*.class"/>
+      <entry name="!?*.scala"/>
+      <entry name="!?*.groovy"/>
+      <entry name="!?*.java"/>
     </wildcardResourcePatterns>
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="1.8"/>
   </component>
-  <component name="CopyrightManager" default="">
-    <module2copyright />
-  </component>
+  <component name="CopyrightManager" default=""/>
   <component name="DependencyValidationManager">
-    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+    <option name="SKIP_IMPORT_STATEMENTS" value="false"/>
   </component>
   <component name="EntryPointsManager">
     <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="net.minecraftforge.fml.common.Mod" />
-      <item index="1" class="java.lang.String" itemvalue="net.minecraftforge.fml.common.Mod.EventHandler" />
-      <item index="2" class="java.lang.String" itemvalue="net.minecraftforge.fml.common.eventhandler.SubscribeEvent" />
+      <item index="0" class="java.lang.String" itemvalue="net.minecraftforge.fml.common.Mod"/>
+      <item index="1" class="java.lang.String" itemvalue="net.minecraftforge.fml.common.Mod.EventHandler"/>
+      <item index="2" class="java.lang.String" itemvalue="net.minecraftforge.fml.common.eventhandler.SubscribeEvent"/>
     </list>
   </component>
-  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleMigrationSettings" migrationVersion="1"/>
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="delegatedBuild" value="true"/>
+        <option name="testRunner" value="GRADLE"/>
+        <option name="distributionType" value="DEFAULT_WRAPPED"/>
+        <option name="externalProjectPath" value="$PROJECT_DIR$"/>
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$"/>
           </set>
         </option>
       </GradleProjectSettings>
     </option>
   </component>
   <component name="GradleUISettings">
-    <setting name="root" />
+    <setting name="root"/>
   </component>
   <component name="GradleUISettings2">
-    <setting name="root" />
+    <setting name="root"/>
   </component>
-  <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C" />
+  <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C"/>
   <component name="InspectionProjectProfileManager">
     <profile version="1.0">
-      <option name="myName" value="Project Default" />
+      <option name="myName" value="Project Default"/>
       <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
         <option name="TOP_LEVEL_CLASS_OPTIONS">
           <value>
-            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
-            <option name="REQUIRED_TAGS" value="" />
+            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none"/>
+            <option name="REQUIRED_TAGS" value=""/>
           </value>
         </option>
         <option name="INNER_CLASS_OPTIONS">
           <value>
-            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
-            <option name="REQUIRED_TAGS" value="" />
+            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none"/>
+            <option name="REQUIRED_TAGS" value=""/>
           </value>
         </option>
         <option name="METHOD_OPTIONS">
           <value>
-            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
-            <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none"/>
+            <option name="REQUIRED_TAGS" value="@return@param@throws or @exception"/>
           </value>
         </option>
         <option name="FIELD_OPTIONS">
           <value>
-            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
-            <option name="REQUIRED_TAGS" value="" />
+            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none"/>
+            <option name="REQUIRED_TAGS" value=""/>
           </value>
         </option>
-        <option name="IGNORE_DEPRECATED" value="false" />
-        <option name="IGNORE_JAVADOC_PERIOD" value="true" />
-        <option name="IGNORE_DUPLICATED_THROWS" value="false" />
-        <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-        <option name="myAdditionalJavadocTags" value="date" />
+        <option name="IGNORE_DEPRECATED" value="false"/>
+        <option name="IGNORE_JAVADOC_PERIOD" value="true"/>
+        <option name="IGNORE_DUPLICATED_THROWS" value="false"/>
+        <option name="IGNORE_POINT_TO_ITSELF" value="false"/>
+        <option name="myAdditionalJavadocTags" value="date"/>
       </inspection_tool>
     </profile>
-    <version value="1.0" />
+    <version value="1.0"/>
   </component>
   <component name="JavadocGenerationManager">
-    <option name="OTHER_OPTIONS" value="" />
+    <option name="OTHER_OPTIONS" value=""/>
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Earraylate.iml" filepath="$PROJECT_DIR$/Earraylate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Earraylate.api.iml" filepath="$PROJECT_DIR$/Earraylate.api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Earraylate.main.iml" filepath="$PROJECT_DIR$/Earraylate.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Earraylate.test.iml" filepath="$PROJECT_DIR$/Earraylate.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Earraylate.iml" filepath="$PROJECT_DIR$/Earraylate.iml"/>
+      <module fileurl="file://$PROJECT_DIR$/Earraylate.api.iml" filepath="$PROJECT_DIR$/Earraylate.api.iml"/>
+      <module fileurl="file://$PROJECT_DIR$/Earraylate.main.iml" filepath="$PROJECT_DIR$/Earraylate.main.iml"/>
+      <module fileurl="file://$PROJECT_DIR$/Earraylate.test.iml" filepath="$PROJECT_DIR$/Earraylate.test.iml"/>
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" assert-keyword="true" assert-jdk-15="true">
+    <output url="file://$PROJECT_DIR$/out"/>
   </component>
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
-      <option name="id" value="central" />
-      <option name="name" value="Maven Central repository" />
-      <option name="url" value="https://repo1.maven.org/maven2" />
+      <option name="id" value="central"/>
+      <option name="name" value="Maven Central repository"/>
+      <option name="url" value="https://repo1.maven.org/maven2"/>
     </remote-repository>
     <remote-repository>
-      <option name="id" value="jboss.community" />
-      <option name="name" value="JBoss Community repository" />
-      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+      <option name="id" value="jboss.community"/>
+      <option name="name" value="JBoss Community repository"/>
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/"/>
     </remote-repository>
     <remote-repository>
-      <option name="id" value="MavenRepo" />
-      <option name="name" value="MavenRepo" />
-      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+      <option name="id" value="MavenRepo"/>
+      <option name="name" value="MavenRepo"/>
+      <option name="url" value="https://repo.maven.apache.org/maven2/"/>
     </remote-repository>
     <remote-repository>
-      <option name="id" value="deobfDeps" />
-      <option name="name" value="deobfDeps" />
-      <option name="url" value="file:/$PROJECT_DIR$/gradle/caches/minecraft/deobfedDeps" />
+      <option name="id" value="deobfDeps"/>
+      <option name="name" value="deobfDeps"/>
+      <option name="url" value="file:/$PROJECT_DIR$/gradle/caches/minecraft/deobfedDeps"/>
     </remote-repository>
     <remote-repository>
-      <option name="id" value="minecraft" />
-      <option name="name" value="minecraft" />
-      <option name="url" value="https://libraries.minecraft.net/" />
+      <option name="id" value="minecraft"/>
+      <option name="name" value="minecraft"/>
+      <option name="url" value="https://libraries.minecraft.net/"/>
     </remote-repository>
     <remote-repository>
-      <option name="id" value="forge" />
-      <option name="name" value="forge" />
-      <option name="url" value="https://files.minecraftforge.net/maven" />
+      <option name="id" value="forge"/>
+      <option name="name" value="forge"/>
+      <option name="url" value="https://files.minecraftforge.net/maven"/>
     </remote-repository>
     <remote-repository>
-      <option name="id" value="deobfDeps" />
-      <option name="name" value="deobfDeps" />
-      <option name="url" value="file:/$PROJECT_DIR$/gradle/caches/minecraft/deobfedDeps/" />
+      <option name="id" value="deobfDeps"/>
+      <option name="name" value="deobfDeps"/>
+      <option name="url" value="file:/$PROJECT_DIR$/gradle/caches/minecraft/deobfedDeps/"/>
     </remote-repository>
   </component>
   <component name="SvnBranchConfigurationManager">
-    <option name="mySupportsUserInfoFilter" value="true" />
+    <option name="mySupportsUserInfoFilter" value="true"/>
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
-  </component>
-  <component name="libraryTable">
-    <library name="Gradle: net.minecraftforge:forgeBin:1.12.2-14.23.5.2847">
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/jbr/bin/Could not find net.minecraftforge:forgeBin:1.12.2-14.23.5.2847.&#13;&#10;Searched in the following locations:&#13;&#10;  - https:/files.minecraftforge.net/maven/net/minecraftforge/forgeBin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.pom&#13;&#10;  - https:/files.minecraftforge.net/maven/net/minecraftforge/forgeBin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.jar&#13;&#10;  - https:/repo.maven.apache.org/maven2/net/minecraftforge/forgeBin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.pom&#13;&#10;  - https:/repo.maven.apache.org/maven2/net/minecraftforge/forgeBin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.jar&#13;&#10;  - https:/libraries.minecraft.net/net/minecraftforge/forgeBin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.pom&#13;&#10;  - https:/libraries.minecraft.net/net/minecraftforge/forgeBin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.jar&#13;&#10;  - file:/D:/Users/Administrator/Documents/GitHub/DreamBorderX-Earraylate-RPG-MOD/Earraylate/gradle/caches/minecraft/deobfedDeps/net/minecraftforge/forgeBin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.pom&#13;&#10;  - file:/D:/Users/Administrator/Documents/GitHub/DreamBorderX-Earraylate-RPG-MOD/Earraylate/gradle/caches/minecraft/deobfedDeps/net/minecraftforge/forgeBin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.jar&#13;&#10;  - file:/D:/Users/Administrator/Documents/GitHub/DreamBorderX-Earraylate-RPG-MOD/Earraylate/gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2847/snapshot/20171003/forgeBin-1.12.2-14.23.5.2847.jar&#13;&#10;  - file:/D:/Users/Administrator/Documents/GitHub/DreamBorderX-Earraylate-RPG-MOD/Earraylate/gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2847/snapshot/20171003/forgeBin.jar&#13;&#10;Required by:&#13;&#10;    project :" />
-        <root url="jar://$PROJECT_DIR$/gradle/caches/minecraft/deobfedDeps/net/minecraftforge/forgebin/1.12.2-14.23.5.2847/forgeBin-1.12.2-14.23.5.2847.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git"/>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <UIState>
           <splitter-proportions>
-            <SplitterProportionsDataImpl />
+            <SplitterProportionsDataImpl/>
           </splitter-proportions>
-          <settings />
+          <settings/>
         </UIState>
       </state>
       <state key="Copyright.UI">
         <UIState>
           <splitter-proportions>
-            <SplitterProportionsDataImpl />
+            <SplitterProportionsDataImpl/>
           </splitter-proportions>
         </UIState>
       </state>
@@ -176,7 +164,7 @@
             <SplitterProportionsDataImpl>
               <option name="proportions">
                 <list>
-                  <option value="0.2" />
+                  <option value="0.2"/>
                 </list>
               </option>
             </SplitterProportionsDataImpl>
@@ -187,9 +175,9 @@
       <state key="ScopeChooserConfigurable.UI">
         <UIState>
           <splitter-proportions>
-            <SplitterProportionsDataImpl />
+            <SplitterProportionsDataImpl/>
           </splitter-proportions>
-          <settings />
+          <settings/>
         </UIState>
       </state>
     </states>
