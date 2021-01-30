@@ -55,7 +55,7 @@ public enum Earraylate {
     //    FMLLoadCompleteEvent
     // 其中，PreInit.、Init.、IMCEvent 和 PostInit. 是最常用的四个事件，
     // 剩下两个事件只有在相当少见的情况下才会用到，大可暂时无视。
-
+/*
     @Mod.EventBusSubscriber(modid = "earraylate")
     public final class ItemInitializer {
 
@@ -64,7 +64,7 @@ public enum Earraylate {
 
     // 和正常的事件一样，你不需要手动调用此方法！Forge 会自动调用它的。
     @SubscribeEvent
-    public /*static*/ void registerItem(RegistryEvent.Register<Item> event) {
+    public /*static*-/ void registerItem(RegistryEvent.Register<Item> event) {
         // 注意 setRegistryName 调用。
         // 每一个物品都对应唯一一个注册名，用于和其他物品区分开来。这个注册名不能含有大写字母。
         // 此方法返回被注册的 Item 对象。
@@ -80,7 +80,7 @@ public enum Earraylate {
 // 我们需要一个 CreativeTabs 的实例，当然那个类下面就有原版的 10 个，可以直接拿来用，
 // 但是你不觉得有一个自己的更方便吗……
 // 一般是使用匿名内部类，就像这样。
-public /*static*/ final CreativeTabs EXAMPLE_CREATIVE_TAB = new CreativeTabs("earraylate_tab") {
+public /*static*-/ final CreativeTabs EXAMPLE_CREATIVE_TAB = new CreativeTabs("earraylate_tab") {
     // 获得用作标签图标的 ItemStack。你大可以往里面塞各种奇奇怪怪的数据。
     @Override
     public ItemStack createIcon() {
@@ -91,10 +91,10 @@ public /*static*/ final CreativeTabs EXAMPLE_CREATIVE_TAB = new CreativeTabs("ea
 @Mod.EventBusSubscriber(value = Side.CLIENT, modid = "earraylate")
 public final class ModelMapper {
     @SubscribeEvent
-    public /*static*/ void onModelReg(ModelRegistryEvent event) {
+    public /*static*-/ void onModelReg(ModelRegistryEvent event) {
         ModelLoader.setCustomModelResourceLocation(ItemInitializer.black_bread, 0, new ModelResourceLocation(ItemInitializer.black_bread.getRegistryName(), "inventory"));
     }
-}
+}*/
 
     public static final SoundEvent BLOOD_AND_GUTS = new SoundEvent(new ResourceLocation("earraylate", "blood_and_guts"));
     public static final SoundEvent FAILBOAT103_EXCALIBUUUR = new SoundEvent(new ResourceLocation("earraylate", "failboat103 - excalibuuur"));
