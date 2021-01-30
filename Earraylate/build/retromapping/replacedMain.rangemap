@@ -2,7 +2,7 @@ Unsupposrted library path: D:\Users\Administrator\Documents\GitHub\DreamBorderX-
 Unsupposrted library path: D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\build\resources\api
 Symbol range map extraction starting
 Processing 1 files
-startProcessing "com/dreambx/Earraylate/Earraylate.java" md5: a06e60da17c5e5fa1940d1189f2a5ea5
+startProcessing "com/dreambx/Earraylate/Earraylate.java" md5: 287762ba85b4a2d90cf3a4cf2378de9e
 @|com/dreambx/Earraylate/Earraylate.java|8|30|com.dreambx.Earraylate|package|com.dreambx.Earraylate|(file)
 Enum Start: com.dreambx.Earraylate.Earraylate
    @|com/dreambx/Earraylate/Earraylate.java|1133|1136|Mod|class|net.minecraftforge.fml.common.Mod|false
@@ -18,87 +18,87 @@ Enum Start: com.dreambx.Earraylate.Earraylate
       @|com/dreambx/Earraylate/Earraylate.java|1500|1511|getInstance|method|com.dreambx.Earraylate.Earraylate|getInstance|()Lcom/dreambx/Earraylate/Earraylate;
       @|com/dreambx/Earraylate/Earraylate.java|1532|1540|INSTANCE|field|com.dreambx.Earraylate.Earraylate|INSTANCE
    Method End: getInstance()Lcom/dreambx/Earraylate/Earraylate;
-   @|com/dreambx/Earraylate/Earraylate.java|3430|3440|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3430|3440|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3441|3455|BLOOD_AND_GUTS|field|com.dreambx.Earraylate.Earraylate|BLOOD_AND_GUTS|
-   @|com/dreambx/Earraylate/Earraylate.java|3462|3472|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3477|3493|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
-   @|com/dreambx/Earraylate/Earraylate.java|3553|3563|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3553|3563|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3564|3587|FAILBOAT103_EXCALIBUUUR|field|com.dreambx.Earraylate.Earraylate|FAILBOAT103_EXCALIBUUUR|
-   @|com/dreambx/Earraylate/Earraylate.java|3594|3604|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3609|3625|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
-   @|com/dreambx/Earraylate/Earraylate.java|3696|3706|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3696|3706|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3707|3720|THEKYLEB_7BY8|field|com.dreambx.Earraylate.Earraylate|THEKYLEB_7BY8|
-   @|com/dreambx/Earraylate/Earraylate.java|3727|3737|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3742|3758|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
-   @|com/dreambx/Earraylate/Earraylate.java|3821|3831|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3821|3831|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3832|3845|THEKYLEB_BARD|field|com.dreambx.Earraylate.Earraylate|THEKYLEB_BARD|
-   @|com/dreambx/Earraylate/Earraylate.java|3852|3862|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3867|3883|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
-   @|com/dreambx/Earraylate/Earraylate.java|3944|3954|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3944|3954|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3955|3969|GOOD_BATTLE_04|field|com.dreambx.Earraylate.Earraylate|GOOD_BATTLE_04|
-   @|com/dreambx/Earraylate/Earraylate.java|3976|3986|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|3991|4007|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
-   @|com/dreambx/Earraylate/Earraylate.java|4067|4077|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|4067|4077|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|4078|4081|TS1|field|com.dreambx.Earraylate.Earraylate|TS1|
-   @|com/dreambx/Earraylate/Earraylate.java|4088|4098|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|4103|4119|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
-   @|com/dreambx/Earraylate/Earraylate.java|4168|4178|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|4168|4178|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|4179|4182|TS2|field|com.dreambx.Earraylate.Earraylate|TS2|
-   @|com/dreambx/Earraylate/Earraylate.java|4189|4199|SoundEvent|class|net.minecraft.util.SoundEvent|false
-   @|com/dreambx/Earraylate/Earraylate.java|4204|4220|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
+   @|com/dreambx/Earraylate/Earraylate.java|3445|3455|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3445|3455|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3456|3470|BLOOD_AND_GUTS|field|com.dreambx.Earraylate.Earraylate|BLOOD_AND_GUTS|
+   @|com/dreambx/Earraylate/Earraylate.java|3477|3487|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3492|3508|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
+   @|com/dreambx/Earraylate/Earraylate.java|3568|3578|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3568|3578|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3579|3602|FAILBOAT103_EXCALIBUUUR|field|com.dreambx.Earraylate.Earraylate|FAILBOAT103_EXCALIBUUUR|
+   @|com/dreambx/Earraylate/Earraylate.java|3609|3619|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3624|3640|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
+   @|com/dreambx/Earraylate/Earraylate.java|3711|3721|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3711|3721|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3722|3735|THEKYLEB_7BY8|field|com.dreambx.Earraylate.Earraylate|THEKYLEB_7BY8|
+   @|com/dreambx/Earraylate/Earraylate.java|3742|3752|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3757|3773|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
+   @|com/dreambx/Earraylate/Earraylate.java|3836|3846|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3836|3846|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3847|3860|THEKYLEB_BARD|field|com.dreambx.Earraylate.Earraylate|THEKYLEB_BARD|
+   @|com/dreambx/Earraylate/Earraylate.java|3867|3877|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3882|3898|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
+   @|com/dreambx/Earraylate/Earraylate.java|3959|3969|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3959|3969|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|3970|3984|GOOD_BATTLE_04|field|com.dreambx.Earraylate.Earraylate|GOOD_BATTLE_04|
+   @|com/dreambx/Earraylate/Earraylate.java|3991|4001|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|4006|4022|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
+   @|com/dreambx/Earraylate/Earraylate.java|4082|4092|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|4082|4092|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|4093|4096|TS1|field|com.dreambx.Earraylate.Earraylate|TS1|
+   @|com/dreambx/Earraylate/Earraylate.java|4103|4113|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|4118|4134|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
+   @|com/dreambx/Earraylate/Earraylate.java|4183|4193|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|4183|4193|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|4194|4197|TS2|field|com.dreambx.Earraylate.Earraylate|TS2|
+   @|com/dreambx/Earraylate/Earraylate.java|4204|4214|SoundEvent|class|net.minecraft.util.SoundEvent|false
+   @|com/dreambx/Earraylate/Earraylate.java|4219|4235|ResourceLocation|class|net.minecraft.util.ResourceLocation|false
    Method Start: onSoundEventRegistration(Lnet/minecraftforge/event/RegistryEvent$Register;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4423|4428|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|4324|4338|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
-      @|com/dreambx/Earraylate/Earraylate.java|4363|4387|onSoundEventRegistration|method|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4388|4410|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
-      @|com/dreambx/Earraylate/Earraylate.java|4411|4421|SoundEvent|class|net.minecraft.util.SoundEvent|false
-      @|com/dreambx/Earraylate/Earraylate.java|4441|4446|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|4447|4458|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
-      @|com/dreambx/Earraylate/Earraylate.java|4461|4469|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4470|4484|BLOOD_AND_GUTS|field|com.dreambx.Earraylate.Earraylate|BLOOD_AND_GUTS
-      @|com/dreambx/Earraylate/Earraylate.java|4496|4501|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|4502|4513|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
-      @|com/dreambx/Earraylate/Earraylate.java|4516|4524|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4525|4548|FAILBOAT103_EXCALIBUUUR|field|com.dreambx.Earraylate.Earraylate|FAILBOAT103_EXCALIBUUUR
-      @|com/dreambx/Earraylate/Earraylate.java|4560|4565|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|4566|4577|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
-      @|com/dreambx/Earraylate/Earraylate.java|4580|4588|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4589|4602|THEKYLEB_7BY8|field|com.dreambx.Earraylate.Earraylate|THEKYLEB_7BY8
-      @|com/dreambx/Earraylate/Earraylate.java|4614|4619|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|4620|4631|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
-      @|com/dreambx/Earraylate/Earraylate.java|4634|4642|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4643|4656|THEKYLEB_BARD|field|com.dreambx.Earraylate.Earraylate|THEKYLEB_BARD
-      @|com/dreambx/Earraylate/Earraylate.java|4668|4673|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|4674|4685|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
-      @|com/dreambx/Earraylate/Earraylate.java|4688|4696|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4697|4711|GOOD_BATTLE_04|field|com.dreambx.Earraylate.Earraylate|GOOD_BATTLE_04
-      @|com/dreambx/Earraylate/Earraylate.java|4723|4728|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|4729|4740|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
-      @|com/dreambx/Earraylate/Earraylate.java|4743|4751|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4752|4755|TS1|field|com.dreambx.Earraylate.Earraylate|TS1
-      @|com/dreambx/Earraylate/Earraylate.java|4767|4772|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|4773|4784|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
-      @|com/dreambx/Earraylate/Earraylate.java|4787|4795|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4796|4799|TS2|field|com.dreambx.Earraylate.Earraylate|TS2
+      @|com/dreambx/Earraylate/Earraylate.java|4438|4443|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|4339|4353|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/dreambx/Earraylate/Earraylate.java|4378|4402|onSoundEventRegistration|method|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4403|4425|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|com/dreambx/Earraylate/Earraylate.java|4426|4436|SoundEvent|class|net.minecraft.util.SoundEvent|false
+      @|com/dreambx/Earraylate/Earraylate.java|4456|4461|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|4462|4473|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/dreambx/Earraylate/Earraylate.java|4476|4484|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4485|4499|BLOOD_AND_GUTS|field|com.dreambx.Earraylate.Earraylate|BLOOD_AND_GUTS
+      @|com/dreambx/Earraylate/Earraylate.java|4511|4516|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|4517|4528|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/dreambx/Earraylate/Earraylate.java|4531|4539|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4540|4563|FAILBOAT103_EXCALIBUUUR|field|com.dreambx.Earraylate.Earraylate|FAILBOAT103_EXCALIBUUUR
+      @|com/dreambx/Earraylate/Earraylate.java|4575|4580|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|4581|4592|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/dreambx/Earraylate/Earraylate.java|4595|4603|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4604|4617|THEKYLEB_7BY8|field|com.dreambx.Earraylate.Earraylate|THEKYLEB_7BY8
+      @|com/dreambx/Earraylate/Earraylate.java|4629|4634|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|4635|4646|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/dreambx/Earraylate/Earraylate.java|4649|4657|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4658|4671|THEKYLEB_BARD|field|com.dreambx.Earraylate.Earraylate|THEKYLEB_BARD
+      @|com/dreambx/Earraylate/Earraylate.java|4683|4688|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|4689|4700|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/dreambx/Earraylate/Earraylate.java|4703|4711|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4712|4726|GOOD_BATTLE_04|field|com.dreambx.Earraylate.Earraylate|GOOD_BATTLE_04
+      @|com/dreambx/Earraylate/Earraylate.java|4738|4743|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|4744|4755|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/dreambx/Earraylate/Earraylate.java|4758|4766|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4767|4770|TS1|field|com.dreambx.Earraylate.Earraylate|TS1
+      @|com/dreambx/Earraylate/Earraylate.java|4782|4787|event|param|com.dreambx.Earraylate.Earraylate|onSoundEventRegistration|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|4788|4799|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/dreambx/Earraylate/Earraylate.java|4802|4810|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4811|4814|TS2|field|com.dreambx.Earraylate.Earraylate|TS2
    Method End: onSoundEventRegistration(Lnet/minecraftforge/event/RegistryEvent$Register;)V
    Method Start: preLoad(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4885|4890|event|param|com.dreambx.Earraylate.Earraylate|preLoad|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
-      @|com/dreambx/Earraylate/Earraylate.java|4817|4833|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
-      @|com/dreambx/Earraylate/Earraylate.java|4851|4858|preLoad|method|com.dreambx.Earraylate.Earraylate|preLoad|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4859|4884|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
-      @|com/dreambx/Earraylate/Earraylate.java|4903|4909|System|class|java.lang.System|false
-      @|com/dreambx/Earraylate/Earraylate.java|4910|4913|out|field|java.lang.System|out
-      @|com/dreambx/Earraylate/Earraylate.java|4914|4921|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
-      @|com/dreambx/Earraylate/Earraylate.java|4948|4954|System|class|java.lang.System|false
-      @|com/dreambx/Earraylate/Earraylate.java|4955|4958|out|field|java.lang.System|out
-      @|com/dreambx/Earraylate/Earraylate.java|4959|4966|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4900|4905|event|param|com.dreambx.Earraylate.Earraylate|preLoad|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/dreambx/Earraylate/Earraylate.java|4832|4848|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/dreambx/Earraylate/Earraylate.java|4866|4873|preLoad|method|com.dreambx.Earraylate.Earraylate|preLoad|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4874|4899|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|com/dreambx/Earraylate/Earraylate.java|4918|4924|System|class|java.lang.System|false
+      @|com/dreambx/Earraylate/Earraylate.java|4925|4928|out|field|java.lang.System|out
+      @|com/dreambx/Earraylate/Earraylate.java|4929|4936|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com/dreambx/Earraylate/Earraylate.java|4963|4969|System|class|java.lang.System|false
+      @|com/dreambx/Earraylate/Earraylate.java|4970|4973|out|field|java.lang.System|out
+      @|com/dreambx/Earraylate/Earraylate.java|4974|4981|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
    Method End: preLoad(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
 Enum End  : com.dreambx.Earraylate.Earraylate
 endProcessing "com/dreambx/Earraylate/Earraylate.java"
