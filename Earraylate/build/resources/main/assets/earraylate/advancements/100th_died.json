@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "variedcommodities:blood_block"
+    },
+    "title": {
+      "translate": "advancements.earraylate.100th_died"
+    },
+    "frame": "goal",
+    "description": {
+      "translate": "advancements.earraylate.100th_died.desc"
+    }
+  },
+  "parent":"earraylate:tenth_died",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

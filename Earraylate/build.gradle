@@ -1,7 +1,8 @@
 buildscript {
     repositories {
         jcenter()
-        maven { url = "https://files.minecraftforge.net/maven" }
+        //maven { url = "https://files.minecraftforge.net/maven" }
+        maven { url = "http://lss233.littleservice.cn/repositories/minecraft" }
         /*maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/' }
         maven{ url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'}*/
     }

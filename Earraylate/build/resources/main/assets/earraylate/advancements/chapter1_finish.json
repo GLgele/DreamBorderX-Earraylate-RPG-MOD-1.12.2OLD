@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "variedcommodities:stone_broadsword"
+    },
+    "title": {
+      "translate": "advancements.earraylate.chapter1_finish"
+    },
+    "frame": "challenge",
+    "description": {
+      "translate": "advancements.earraylate.chapter1_finish.desc"
+    }
+  },
+  "parent":"earraylate:hero",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
