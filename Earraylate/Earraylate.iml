@@ -776,5 +776,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="forgeBin-1.12.2-14.23.5.2847" level="project" />
   </component>
 </module>
