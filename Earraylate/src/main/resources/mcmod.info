@@ -1,16 +1,16 @@
 [
-    {
-        "modid": "earraylate",
-        "name": "Earraylate Mod",
-        "description": "Earraylate",
-        "version": "0.0.1",
-        "url": "",
-        "authorList": ["DreamBorderX:GLgele"],
-        "credits": "DreamBorderX:GLgele",
-        "logoFile": "logo.png",
-        "screenshots": [],
-        "useDependencyInformation": true,
-        "requiredMods": [],
-        "dependencies": []
-    }
+{
+  "modid": "earraylate",
+  "name": "Earraylate Mod",
+  "description": "Earraylate",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GLgele"],
+  "credits": "DreamBorderX:GLgele",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
 ]
