@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:grass"
+    },
+    "title": {
+      "translate": "advancements.earraylate.firstone"
+    },
+    "description": {
+      "translate": "advancements.earraylate.firstone.desc"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

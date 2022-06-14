@@ -1,31 +1,59 @@
 package com.dreambx.earraylate;
 
+import com.dreambx.earraylate.proxy.CommonProxy;
+import com.dreambx.earraylate.util.Reference;
+import com.dreambx.earraylate.util.handlers.RegistryHandler;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
+import net.minecraft.init.Items;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
+import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
+import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = Earraylate.MODID, name = Earraylate.NAME, version = Earraylate.VERSION)
+
+@Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION)
 public class Earraylate
 {
-    public static final String MODID = "earraylate";
-    public static final String NAME = "Earraylate Mod";
-    public static final String VERSION = "1.0";
+
 
     private static Logger logger;
 
+    @Mod.Instance
+    public static Earraylate instance;
+
+    @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.COMMON_PROXY_CLASS)
+    public static CommonProxy proxy;
+
     @EventHandler
-    public void preInit(FMLPreInitializationEvent event)
+    public static void PreInit(FMLPreInitializationEvent event)
     {
-        logger = event.getModLog();
+
     }
 
     @EventHandler
-    public void init(FMLInitializationEvent event)
+    public static void Init(FMLInitializationEvent event)
     {
-        // some example code
-        //logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
+        RegistryHandler.initRegistries();
     }
+
+    @EventHandler
+    public static void PostInit(FMLPostInitializationEvent event)
+    {
+
+    }
+
+    public static final CreativeTabs ITEM_TAB = new CreativeTabs("earraylate_tab") {
+        @Override
+        public ItemStack getTabIconItem() {
+            return new ItemStack(Blocks.GRASS);
+        }
+    };
 }
