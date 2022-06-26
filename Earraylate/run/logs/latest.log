@@ -1,48 +1,48 @@
-[12:42:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[12:42:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[12:42:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[12:42:42] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
-[12:42:42] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_311, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_311\jre
-[12:42:43] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
-[12:42:43] [main/ERROR] [FML]: Full: C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
-[12:42:43] [main/ERROR] [FML]: Trimmed: c:/users/administrator/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
-[12:42:43] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[12:42:43] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
-[12:42:43] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
-[12:42:43] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
-[12:42:43] [main/INFO] [FML]: Searching D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\run\.\mods for mods
-[12:42:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[12:42:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[12:42:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[12:42:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[12:42:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:42:45] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
-[12:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[12:42:46] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[12:42:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[12:42:46] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[12:42:47] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player727
-[12:42:50] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
-[12:42:50] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
-[12:42:52] [Client thread/INFO] [FML]: -- System Details --
+[13:48:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:48:28] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:48:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:48:28] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[13:48:28] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_311, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_311\jre
+[13:48:28] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[13:48:28] [main/ERROR] [FML]: Full: C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[13:48:28] [main/ERROR] [FML]: Trimmed: c:/users/administrator/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[13:48:28] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[13:48:28] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[13:48:29] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[13:48:29] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[13:48:29] [main/INFO] [FML]: Searching D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\run\.\mods for mods
+[13:48:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:48:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:48:31] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[13:48:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:48:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:48:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:48:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:48:31] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:48:32] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player203
+[13:48:36] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[13:48:36] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[13:48:38] [Client thread/INFO] [FML]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_311, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 464168416 bytes (442 MB) / 626524160 bytes (597 MB) up to 1892155392 bytes (1804 MB)
+	Memory: 535752064 bytes (510 MB) / 692584448 bytes (660 MB) up to 1892155392 bytes (1804 MB)
 	JVM Flags: 0 total; 
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 431.65' Renderer: 'GeForce GTX 1650/PCIe/SSE2'
-[12:42:52] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
-[12:42:52] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[12:42:52] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[12:42:52] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
-[12:42:53] [Client thread/INFO] [FML]: Searching D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\run\.\mods for mods
-[12:42:54] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[13:48:38] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[13:48:38] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:48:38] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:48:38] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[13:48:38] [Client thread/INFO] [FML]: Searching D:\Users\Administrator\Documents\GitHub\DreamBorderX-Earraylate-RPG-MOD\Earraylate\run\.\mods for mods
+[13:48:39] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -71,7 +71,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_311]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[12:42:54] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\6.2\a9690730f92cc79eeadc20e400ebb41eccce10b1\asm-util-6.2.jar - probably a corrupt zip
+[13:48:39] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\6.2\a9690730f92cc79eeadc20e400ebb41eccce10b1\asm-util-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -104,7 +104,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/WARN] [FML]: Zip file asm-util-6.2.jar failed to read properly, it will be ignored
+[13:48:39] [Client thread/WARN] [FML]: Zip file asm-util-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -137,7 +137,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[13:48:39] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -166,7 +166,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_311]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[12:42:54] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\6.2\c7d9a90d221cbb977848d2c777eb3aa7637e89df\asm-analysis-6.2.jar - probably a corrupt zip
+[13:48:39] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\6.2\c7d9a90d221cbb977848d2c777eb3aa7637e89df\asm-analysis-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -199,7 +199,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/WARN] [FML]: Zip file asm-analysis-6.2.jar failed to read properly, it will be ignored
+[13:48:39] [Client thread/WARN] [FML]: Zip file asm-analysis-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -232,7 +232,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[13:48:39] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -261,7 +261,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_311]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[12:42:54] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\6.2\61570e046111559f38d4e0e580c005f75988c0a6\asm-tree-6.2.jar - probably a corrupt zip
+[13:48:39] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\6.2\61570e046111559f38d4e0e580c005f75988c0a6\asm-tree-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -294,7 +294,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/WARN] [FML]: Zip file asm-tree-6.2.jar failed to read properly, it will be ignored
+[13:48:39] [Client thread/WARN] [FML]: Zip file asm-tree-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -327,7 +327,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[13:48:39] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -356,7 +356,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_311]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[12:42:54] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\6.2\1b6c4ff09ce03f3052429139c2a68e295cae6604\asm-6.2.jar - probably a corrupt zip
+[13:48:39] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\6.2\1b6c4ff09ce03f3052429139c2a68e295cae6604\asm-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -389,7 +389,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/WARN] [FML]: Zip file asm-6.2.jar failed to read properly, it will be ignored
+[13:48:39] [Client thread/WARN] [FML]: Zip file asm-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -422,7 +422,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[13:48:40] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -451,7 +451,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_311]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[12:42:54] [Client thread/ERROR] [FML]: There was a problem reading the entry META-INF/versions/9/module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar - probably a corrupt zip
+[13:48:40] [Client thread/ERROR] [FML]: There was a problem reading the entry META-INF/versions/9/module-info.class in the jar C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -484,7 +484,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/WARN] [FML]: Zip file slf4j-api-1.8.0-beta4.jar failed to read properly, it will be ignored
+[13:48:40] [Client thread/WARN] [FML]: Zip file slf4j-api-1.8.0-beta4.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -517,57 +517,61 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[12:42:54] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
-[12:42:54] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 145108600 nanos
-[12:42:55] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, earraylate, variedcommodities] at CLIENT
-[12:42:55] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, earraylate, variedcommodities] at SERVER
-[12:42:56] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earraylate Mod, FMLFileResourcePack:Varied Commodities
-[12:42:56] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
-[12:42:56] [Client thread/INFO] [FML]: Found 1535 ObjectHolder annotations
-[12:42:56] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[12:42:56] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[12:42:56] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[12:42:56] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[12:42:57] [Client thread/INFO] [FML]: Applying holder lookups
-[12:42:57] [Client thread/INFO] [FML]: Holder lookups applied
-[12:42:58] [Client thread/INFO] [FML]: Applying holder lookups
-[12:42:58] [Client thread/INFO] [FML]: Holder lookups applied
-[12:42:58] [Client thread/INFO] [FML]: Applying holder lookups
-[12:42:58] [Client thread/INFO] [FML]: Holder lookups applied
-[12:42:58] [Client thread/INFO] [FML]: Applying holder lookups
-[12:42:58] [Client thread/INFO] [FML]: Holder lookups applied
-[12:42:58] [Client thread/INFO] [FML]: Injecting itemstacks
-[12:42:58] [Client thread/INFO] [FML]: Itemstack injection complete
-[12:43:00] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:gun.pistol.shot
-[12:43:00] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:gun.pistol.trigger
-[12:43:00] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:gun.empty
-[12:43:00] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:gun.ak47.load
-[12:43:00] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:magic.shot
-[12:43:00] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:magic.charge
-[12:43:00] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:misc.swosh
-[12:43:00] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
-[12:43:00] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[12:43:00] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
-[12:43:00] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[12:43:00] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
-[12:43:00] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
-[12:43:06] [Client thread/INFO] [FML]: Max texture size: 16384
-[12:43:09] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
-[12:43:12] [Client thread/INFO] [FML]: Applying holder lookups
-[12:43:12] [Client thread/INFO] [FML]: Holder lookups applied
-[12:43:12] [Client thread/INFO] [FML]: Injecting itemstacks
-[12:43:12] [Client thread/INFO] [FML]: Itemstack injection complete
-[12:43:12] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
-[12:43:12] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
-[12:43:12] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
-[12:43:13] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
-[12:43:32] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
-[12:43:32] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
-[12:43:32] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[12:43:33] [Server thread/INFO] [FML]: Applying holder lookups
-[12:43:33] [Server thread/INFO] [FML]: Holder lookups applied
-[12:43:33] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@32266c0)
-[12:43:33] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement earraylate:first_died
+[13:48:40] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[13:48:40] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 176218800 nanos
+[13:48:40] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, earraylate, variedcommodities] at CLIENT
+[13:48:40] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, earraylate, variedcommodities] at SERVER
+[13:48:41] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earraylate Mod, FMLFileResourcePack:Varied Commodities
+[13:48:41] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[13:48:42] [Client thread/INFO] [FML]: Found 1535 ObjectHolder annotations
+[13:48:42] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[13:48:42] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[13:48:42] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[13:48:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:48:43] [Client thread/INFO] [FML]: Applying holder lookups
+[13:48:43] [Client thread/INFO] [FML]: Holder lookups applied
+[13:48:43] [Client thread/INFO] [FML]: Applying holder lookups
+[13:48:43] [Client thread/INFO] [FML]: Holder lookups applied
+[13:48:43] [Client thread/INFO] [FML]: Applying holder lookups
+[13:48:43] [Client thread/INFO] [FML]: Holder lookups applied
+[13:48:43] [Client thread/INFO] [FML]: Applying holder lookups
+[13:48:43] [Client thread/INFO] [FML]: Holder lookups applied
+[13:48:43] [Client thread/INFO] [FML]: Injecting itemstacks
+[13:48:43] [Client thread/INFO] [FML]: Itemstack injection complete
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundHandler]: File earraylate:sounds/songs/failboat103_-_excalibuuur.ogg does not exist, cannot add it to event earraylate:songs.excalibur
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundHandler]: File earraylate:sounds/songs/thekyleb_-_7_by_8.ogg does not exist, cannot add it to event earraylate:songs.kyleb_7by8
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundHandler]: File earraylate:sounds/songs/thekyleb_-_bard.ogg does not exist, cannot add it to event earraylate:songs.kyleb_bard
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundHandler]: File earraylate:sounds/human/man/manattack/manattack1.ogg does not exist, cannot add it to event earraylate:human.manattack
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:gun.pistol.shot
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:gun.pistol.trigger
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:gun.empty
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:gun.ak47.load
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:magic.shot
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:magic.charge
+[13:48:46] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: variedcommodities:misc.swosh
+[13:48:46] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[13:48:46] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[13:48:46] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[13:48:46] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:48:46] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[13:48:46] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[13:48:52] [Client thread/INFO] [FML]: Max texture size: 16384
+[13:48:56] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
+[13:48:58] [Client thread/INFO] [FML]: Applying holder lookups
+[13:48:58] [Client thread/INFO] [FML]: Holder lookups applied
+[13:48:58] [Client thread/INFO] [FML]: Injecting itemstacks
+[13:48:58] [Client thread/INFO] [FML]: Itemstack injection complete
+[13:48:58] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+[13:48:58] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[13:48:58] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[13:48:59] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[13:49:03] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[13:49:03] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[13:49:03] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[13:49:04] [Server thread/INFO] [FML]: Applying holder lookups
+[13:49:04] [Server thread/INFO] [FML]: Holder lookups applied
+[13:49:04] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@34e3af56)
+[13:49:05] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement earraylate:first_died
 com.google.gson.JsonSyntaxException: Unknown entity type 'customnpcs:customnpc', valid types are: minecraft:fireworks_rocket, minecraft:skeleton_horse, minecraft:item, minecraft:vindication_illager, variedcommodities:vcmagicprojectile, minecraft:xp_bottle, minecraft:elder_guardian, minecraft:villager_golem, minecraft:item_frame, minecraft:zombie_pigman, minecraft:wither_skeleton, minecraft:mule, minecraft:area_effect_cloud, minecraft:ender_crystal, minecraft:evocation_fangs, minecraft:evocation_illager, minecraft:fireball, minecraft:giant, minecraft:zombie_villager, minecraft:silverfish, minecraft:sheep, minecraft:guardian, minecraft:husk, minecraft:endermite, minecraft:arrow, minecraft:zombie_horse, minecraft:dragon_fireball, minecraft:egg, minecraft:ender_pearl, minecraft:cow, minecraft:snowman, minecraft:hopper_minecart, variedcommodities:vcchairmount, minecraft:spider, minecraft:small_fireball, minecraft:painting, minecraft:witch, minecraft:wither, minecraft:falling_block, minecraft:illusion_illager, minecraft:creeper, minecraft:stray, minecraft:polar_bear, minecraft:wither_skull, minecraft:potion, minecraft:furnace_minecart, minecraft:shulker, minecraft:spectral_arrow, minecraft:tnt_minecart, minecraft:cave_spider, minecraft:boat, minecraft:villager, minecraft:wolf, minecraft:ocelot, minecraft:vex, variedcommodities:vcprojectile, minecraft:pig, minecraft:rabbit, minecraft:magma_cube, minecraft:zombie, minecraft:ghast, minecraft:bat, minecraft:blaze, minecraft:llama, minecraft:chicken, minecraft:slime, minecraft:xp_orb, minecraft:mooshroom, minecraft:commandblock_minecart, minecraft:armor_stand, minecraft:donkey, minecraft:leash_knot, minecraft:horse, minecraft:skeleton, minecraft:spawner_minecart, minecraft:minecart, minecraft:chest_minecart, minecraft:parrot, minecraft:eye_of_ender_signal, minecraft:ender_dragon, minecraft:shulker_bullet, minecraft:enderman, minecraft:llama_spit, minecraft:snowball, minecraft:squid, minecraft:tnt, minecraft:lightning_bolt, minecraft:player
 	at net.minecraft.advancements.critereon.EntityPredicate.deserialize(EntityPredicate.java:76) ~[EntityPredicate.class:?]
 	at net.minecraft.advancements.critereon.KilledTrigger.deserializeInstance(KilledTrigger.java:68) ~[KilledTrigger.class:?]
@@ -592,51 +596,62 @@ com.google.gson.JsonSyntaxException: Unknown entity type 'customnpcs:customnpc',
 	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:156) [IntegratedServer.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
-[12:43:33] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement earraylate:1000th_died: Task Advancement{parentId=earraylate:100th_died, display=net.minecraft.advancements.DisplayInfo@62a81d47, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={tick=net.minecraft.advancements.Criterion@bf5e8a}, requirements=[[tick]]}
-[12:43:33] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement earraylate:tenth_died: Task Advancement{parentId=earraylate:first_died, display=net.minecraft.advancements.DisplayInfo@68901363, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={tick=net.minecraft.advancements.Criterion@12214bf5}, requirements=[[tick]]}
-[12:43:33] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement earraylate:100th_died: Task Advancement{parentId=earraylate:tenth_died, display=net.minecraft.advancements.DisplayInfo@73dc0814, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={tick=net.minecraft.advancements.Criterion@6bba9b79}, requirements=[[tick]]}
-[12:43:33] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 499 advancements
-[12:43:34] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@32266c0)
-[12:43:34] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@32266c0)
-[12:43:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[12:43:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 58%
-[12:43:35] [Server thread/INFO] [FML]: Unloading dimension -1
-[12:43:35] [Server thread/INFO] [FML]: Unloading dimension 1
-[12:43:35] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
-[12:43:37] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
-[12:43:37] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[12:43:37] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2859,mcp@9.42,variedcommodities@1.12.2,earraylate@1.0
-[12:43:37] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
-[12:43:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[12:43:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player727[local:E:757b06c8] logged in with entity id 178 at (59.872798128466684, 64.0, 503.4125621644073)
-[12:43:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player727加入了游戏
-[12:43:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player727取得了进度[欢迎来到尔利雷特大陆!]
-[12:43:39] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[12:43:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[12:43:39] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player727取得了进度[欢迎来到尔利雷特大陆!]
-[12:43:39] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 3 advancements
-[12:43:48] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] earraylate:songs.blood_and_guts, earraylate:songs.failboat103 - excalibuuur, earraylate:songs.good_battle_04, earraylate:songs.thekyleb - 7 by 8, earraylate:songs.thekyleb - bard, earraylate:songs.ts1, earraylate:songs.ts2
-[12:43:53] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] minecraft:ambient.cave, minecraft:block.anvil.break, minecraft:block.anvil.destroy, minecraft:block.anvil.fall, minecraft:block.anvil.hit, minecraft:block.anvil.land, minecraft:block.anvil.place, minecraft:block.anvil.step, minecraft:block.anvil.use, minecraft:block.brewing_stand.brew, minecraft:block.chest.close, minecraft:block.chest.locked, minecraft:block.chest.open, minecraft:block.chorus_flower.death, minecraft:block.chorus_flower.grow, minecraft:block.cloth.break, minecraft:block.cloth.fall, minecraft:block.cloth.hit, minecraft:block.cloth.place, minecraft:block.cloth.step, minecraft:block.comparator.click, minecraft:block.dispenser.dispense, minecraft:block.dispenser.fail, minecraft:block.dispenser.launch, minecraft:block.enchantment_table.use, minecraft:block.end_gateway.spawn, minecraft:block.end_portal.spawn, minecraft:block.end_portal_frame.fill, minecraft:block.enderchest.close, minecraft:block.enderchest.open, minecraft:block.fence_gate.close, minecraft:block.fence_gate.open, minecraft:block.fire.ambient, minecraft:block.fire.extinguish, minecraft:block.furnace.fire_crackle, minecraft:block.glass.break, minecraft:block.glass.fall, minecraft:block.glass.hit, minecraft:block.glass.place, minecraft:block.glass.step, minecraft:block.grass.break, minecraft:block.grass.fall, minecraft:block.grass.hit, minecraft:block.grass.place, minecraft:block.grass.step, minecraft:block.gravel.break, minecraft:block.gravel.fall, minecraft:block.gravel.hit, minecraft:block.gravel.place, minecraft:block.gravel.step, minecraft:block.iron_door.close, minecraft:block.iron_door.open, minecraft:block.iron_trapdoor.close, minecraft:block.iron_trapdoor.open, minecraft:block.ladder.break, minecraft:block.ladder.fall, minecraft:block.ladder.hit, minecraft:block.ladder.place, minecraft:block.ladder.step, minecraft:block.lava.ambient, minecraft:block.lava.extinguish, minecraft:block.lava.pop, minecraft:block.lever.click, minecraft:block.metal.break, minecraft:block.metal.fall, minecraft:block.metal.hit, minecraft:block.metal.place, minecraft:block.metal.step, minecraft:block.metal_pressureplate.click_off, minecraft:block.metal_pressureplate.click_on, minecraft:block.note.basedrum, minecraft:block.note.bass, minecraft:block.note.bell, minecraft:block.note.chime, minecraft:block.note.flute, minecraft:block.note.guitar, minecraft:block.note.harp, minecraft:block.note.hat, minecraft:block.note.pling, minecraft:block.note.snare, minecraft:block.note.xylophone, minecraft:block.piston.contract, minecraft:block.piston.extend, minecraft:block.portal.ambient, minecraft:block.portal.travel, minecraft:block.portal.trigger, minecraft:block.redstone_torch.burnout, minecraft:block.sand.break, minecraft:block.sand.fall, minecraft:block.sand.hit, minecraft:block.sand.place, minecraft:block.sand.step, minecraft:block.shulker_box.close, minecraft:block.shulker_box.open, minecraft:block.slime.break, minecraft:block.slime.fall, minecraft:block.slime.hit, minecraft:block.slime.place, minecraft:block.slime.step, minecraft:block.snow.break, minecraft:block.snow.fall, minecraft:block.snow.hit, minecraft:block.snow.place, minecraft:block.snow.step, minecraft:block.stone.break, minecraft:block.stone.fall, minecraft:block.stone.hit, minecraft:block.stone.place, minecraft:block.stone.step, minecraft:block.stone_button.click_off, minecraft:block.stone_button.click_on, minecraft:block.stone_pressureplate.click_off, minecraft:block.stone_pressureplate.click_on, minecraft:block.tripwire.attach, minecraft:block.tripwire.click_off, minecraft:block.tripwire.click_on, minecraft:block.tripwire.detach, minecraft:block.water.ambient, minecraft:block.waterlily.place, minecraft:block.wood.break, minecraft:block.wood.fall, minecraft:block.wood.hit, minecraft:block.wood.place, minecraft:block.wood.step, minecraft:block.wood_button.click_off, minecraft:block.wood_button.click_on, minecraft:block.wood_pressureplate.click_off, minecraft:block.wood_pressureplate.click_on, minecraft:block.wooden_door.close, minecraft:block.wooden_door.open, minecraft:block.wooden_trapdoor.close, minecraft:block.wooden_trapdoor.open, minecraft:enchant.thorns.hit, minecraft:entity.armorstand.break, minecraft:entity.armorstand.fall, minecraft:entity.armorstand.hit, minecraft:entity.armorstand.place, minecraft:entity.arrow.hit, minecraft:entity.arrow.hit_player, minecraft:entity.arrow.shoot, minecraft:entity.bat.ambient, minecraft:entity.bat.death, minecraft:entity.bat.hurt, minecraft:entity.bat.loop, minecraft:entity.bat.takeoff, minecraft:entity.blaze.ambient, minecraft:entity.blaze.burn, minecraft:entity.blaze.death, minecraft:entity.blaze.hurt, minecraft:entity.blaze.shoot, minecraft:entity.boat.paddle_land, minecraft:entity.boat.paddle_water, minecraft:entity.bobber.retrieve, minecraft:entity.bobber.splash, minecraft:entity.bobber.throw, minecraft:entity.cat.ambient, minecraft:entity.cat.death, minecraft:entity.cat.hiss, minecraft:entity.cat.hurt, minecraft:entity.cat.purr, minecraft:entity.cat.purreow, minecraft:entity.chicken.ambient, minecraft:entity.chicken.death, minecraft:entity.chicken.egg, minecraft:entity.chicken.hurt, minecraft:entity.chicken.step, minecraft:entity.cow.ambient, minecraft:entity.cow.death, minecraft:entity.cow.hurt, minecraft:entity.cow.milk, minecraft:entity.cow.step, minecraft:entity.creeper.death, minecraft:entity.creeper.hurt, minecraft:entity.creeper.primed, minecraft:entity.donkey.ambient, minecraft:entity.donkey.angry, minecraft:entity.donkey.chest, minecraft:entity.donkey.death, minecraft:entity.donkey.hurt, minecraft:entity.egg.throw, minecraft:entity.elder_guardian.ambient, minecraft:entity.elder_guardian.ambient_land, minecraft:entity.elder_guardian.curse, minecraft:entity.elder_guardian.death, minecraft:entity.elder_guardian.death_land, minecraft:entity.elder_guardian.flop, minecraft:entity.elder_guardian.hurt, minecraft:entity.elder_guardian.hurt_land, minecraft:entity.enderdragon.ambient, minecraft:entity.enderdragon.death, minecraft:entity.enderdragon.flap, minecraft:entity.enderdragon.growl, minecraft:entity.enderdragon.hurt, minecraft:entity.enderdragon.shoot, minecraft:entity.enderdragon_fireball.explode, minecraft:entity.endereye.death, minecraft:entity.endereye.launch, minecraft:entity.endermen.ambient, minecraft:entity.endermen.death, minecraft:entity.endermen.hurt, minecraft:entity.endermen.scream, minecraft:entity.endermen.stare, minecraft:entity.endermen.teleport, minecraft:entity.endermite.ambient, minecraft:entity.endermite.death, minecraft:entity.endermite.hurt, minecraft:entity.endermite.step, minecraft:entity.enderpearl.throw, minecraft:entity.evocation_fangs.attack, minecraft:entity.evocation_illager.ambient, minecraft:entity.evocation_illager.cast_spell, minecraft:entity.evocation_illager.death, minecraft:entity.evocation_illager.hurt, minecraft:entity.evocation_illager.prepare_attack, minecraft:entity.evocation_illager.prepare_summon, minecraft:entity.evocation_illager.prepare_wololo, minecraft:entity.experience_bottle.throw, minecraft:entity.experience_orb.pickup, minecraft:entity.firework.blast, minecraft:entity.firework.blast_far, minecraft:entity.firework.large_blast, minecraft:entity.firework.large_blast_far, minecraft:entity.firework.launch, minecraft:entity.firework.shoot, minecraft:entity.firework.twinkle, minecraft:entity.firework.twinkle_far, minecraft:entity.generic.big_fall, minecraft:entity.generic.burn, minecraft:entity.generic.death, minecraft:entity.generic.drink, minecraft:entity.generic.eat, minecraft:entity.generic.explode, minecraft:entity.generic.extinguish_fire, minecraft:entity.generic.hurt, minecraft:entity.generic.small_fall, minecraft:entity.generic.splash, minecraft:entity.generic.swim, minecraft:entity.ghast.ambient, minecraft:entity.ghast.death, minecraft:entity.ghast.hurt, minecraft:entity.ghast.scream, minecraft:entity.ghast.shoot, minecraft:entity.ghast.warn, minecraft:entity.guardian.ambient, minecraft:entity.guardian.ambient_land, minecraft:entity.guardian.attack, minecraft:entity.guardian.death, minecraft:entity.guardian.death_land, minecraft:entity.guardian.flop, minecraft:entity.guardian.hurt, minecraft:entity.guardian.hurt_land, minecraft:entity.horse.ambient, minecraft:entity.horse.angry, minecraft:entity.horse.armor, minecraft:entity.horse.breathe, minecraft:entity.horse.death, minecraft:entity.horse.eat, minecraft:entity.horse.gallop, minecraft:entity.horse.hurt, minecraft:entity.horse.jump, minecraft:entity.horse.land, minecraft:entity.horse.saddle, minecraft:entity.horse.step, minecraft:entity.horse.step_wood, minecraft:entity.hostile.big_fall, minecraft:entity.hostile.death, minecraft:entity.hostile.hurt, minecraft:entity.hostile.small_fall, minecraft:entity.hostile.splash, minecraft:entity.hostile.swim, minecraft:entity.husk.ambient, minecraft:entity.husk.death, minecraft:entity.husk.hurt, minecraft:entity.husk.step, minecraft:entity.illusion_illager.ambient, minecraft:entity.illusion_illager.cast_spell, minecraft:entity.illusion_illager.death, minecraft:entity.illusion_illager.hurt, minecraft:entity.illusion_illager.mirror_move, minecraft:entity.illusion_illager.prepare_blindness, minecraft:entity.illusion_illager.prepare_mirror, minecraft:entity.irongolem.attack, minecraft:entity.irongolem.death, minecraft:entity.irongolem.hurt, minecraft:entity.irongolem.step, minecraft:entity.item.break, minecraft:entity.item.pickup, minecraft:entity.itemframe.add_item, minecraft:entity.itemframe.break, minecraft:entity.itemframe.place, minecraft:entity.itemframe.remove_item, minecraft:entity.itemframe.rotate_item, minecraft:entity.leashknot.break, minecraft:entity.leashknot.place, minecraft:entity.lightning.impact, minecraft:entity.lightning.thunder, minecraft:entity.lingeringpotion.throw, minecraft:entity.llama.ambient, minecraft:entity.llama.angry, minecraft:entity.llama.chest, minecraft:entity.llama.death, minecraft:entity.llama.eat, minecraft:entity.llama.hurt, minecraft:entity.llama.spit, minecraft:entity.llama.step, minecraft:entity.llama.swag, minecraft:entity.magmacube.death, minecraft:entity.magmacube.hurt, minecraft:entity.magmacube.jump, minecraft:entity.magmacube.squish, minecraft:entity.minecart.inside, minecraft:entity.minecart.riding, minecraft:entity.mooshroom.shear, minecraft:entity.mule.ambient, minecraft:entity.mule.chest, minecraft:entity.mule.death, minecraft:entity.mule.hurt, minecraft:entity.painting.break, minecraft:entity.painting.place, minecraft:entity.parrot.ambient, minecraft:entity.parrot.death, minecraft:entity.parrot.eat, minecraft:entity.parrot.fly, minecraft:entity.parrot.hurt, minecraft:entity.parrot.imitate.blaze, minecraft:entity.parrot.imitate.creeper, minecraft:entity.parrot.imitate.elder_guardian, minecraft:entity.parrot.imitate.enderdragon, minecraft:entity.parrot.imitate.enderman, minecraft:entity.parrot.imitate.endermite, minecraft:entity.parrot.imitate.evocation_illager, minecraft:entity.parrot.imitate.ghast, minecraft:entity.parrot.imitate.husk, minecraft:entity.parrot.imitate.illusion_illager, minecraft:entity.parrot.imitate.magmacube, minecraft:entity.parrot.imitate.polar_bear, minecraft:entity.parrot.imitate.shulker, minecraft:entity.parrot.imitate.silverfish, minecraft:entity.parrot.imitate.skeleton, minecraft:entity.parrot.imitate.slime, minecraft:entity.parrot.imitate.spider, minecraft:entity.parrot.imitate.stray, minecraft:entity.parrot.imitate.vex, minecraft:entity.parrot.imitate.vindication_illager, minecraft:entity.parrot.imitate.witch, minecraft:entity.parrot.imitate.wither, minecraft:entity.parrot.imitate.wither_skeleton, minecraft:entity.parrot.imitate.wolf, minecraft:entity.parrot.imitate.zombie, minecraft:entity.parrot.imitate.zombie_pigman, minecraft:entity.parrot.imitate.zombie_villager, minecraft:entity.parrot.step, minecraft:entity.pig.ambient, minecraft:entity.pig.death, minecraft:entity.pig.hurt, minecraft:entity.pig.saddle, minecraft:entity.pig.step, minecraft:entity.player.attack.crit, minecraft:entity.player.attack.knockback, minecraft:entity.player.attack.nodamage, minecraft:entity.player.attack.strong, minecraft:entity.player.attack.sweep, minecraft:entity.player.attack.weak, minecraft:entity.player.big_fall, minecraft:entity.player.breath, minecraft:entity.player.burp, minecraft:entity.player.death, minecraft:entity.player.hurt, minecraft:entity.player.hurt_drown, minecraft:entity.player.hurt_on_fire, minecraft:entity.player.levelup, minecraft:entity.player.small_fall, minecraft:entity.player.splash, minecraft:entity.player.swim, minecraft:entity.polar_bear.ambient, minecraft:entity.polar_bear.baby_ambient, minecraft:entity.polar_bear.death, minecraft:entity.polar_bear.hurt, minecraft:entity.polar_bear.step, minecraft:entity.polar_bear.warning, minecraft:entity.rabbit.ambient, minecraft:entity.rabbit.attack, minecraft:entity.rabbit.death, minecraft:entity.rabbit.hurt, minecraft:entity.rabbit.jump, minecraft:entity.sheep.ambient, minecraft:entity.sheep.death, minecraft:entity.sheep.hurt, minecraft:entity.sheep.shear, minecraft:entity.sheep.step, minecraft:entity.shulker.ambient, minecraft:entity.shulker.close, minecraft:entity.shulker.death, minecraft:entity.shulker.hurt, minecraft:entity.shulker.hurt_closed, minecraft:entity.shulker.open, minecraft:entity.shulker.shoot, minecraft:entity.shulker.teleport, minecraft:entity.shulker_bullet.hit, minecraft:entity.shulker_bullet.hurt, minecraft:entity.silverfish.ambient, minecraft:entity.silverfish.death, minecraft:entity.silverfish.hurt, minecraft:entity.silverfish.step, minecraft:entity.skeleton.ambient, minecraft:entity.skeleton.death, minecraft:entity.skeleton.hurt, minecraft:entity.skeleton.shoot, minecraft:entity.skeleton.step, minecraft:entity.skeleton_horse.ambient, minecraft:entity.skeleton_horse.death, minecraft:entity.skeleton_horse.hurt, minecraft:entity.slime.attack, minecraft:entity.slime.death, minecraft:entity.slime.hurt, minecraft:entity.slime.jump, minecraft:entity.slime.squish, minecraft:entity.small_magmacube.death, minecraft:entity.small_magmacube.hurt, minecraft:entity.small_magmacube.squish, minecraft:entity.small_slime.death, minecraft:entity.small_slime.hurt, minecraft:entity.small_slime.jump, minecraft:entity.small_slime.squish, minecraft:entity.snowball.throw, minecraft:entity.snowman.ambient, minecraft:entity.snowman.death, minecraft:entity.snowman.hurt, minecraft:entity.snowman.shoot, minecraft:entity.spider.ambient, minecraft:entity.spider.death, minecraft:entity.spider.hurt, minecraft:entity.spider.step, minecraft:entity.splash_potion.break, minecraft:entity.splash_potion.throw, minecraft:entity.squid.ambient, minecraft:entity.squid.death, minecraft:entity.squid.hurt, minecraft:entity.stray.ambient, minecraft:entity.stray.death, minecraft:entity.stray.hurt, minecraft:entity.stray.step, minecraft:entity.tnt.primed, minecraft:entity.vex.ambient, minecraft:entity.vex.charge, minecraft:entity.vex.death, minecraft:entity.vex.hurt, minecraft:entity.villager.ambient, minecraft:entity.villager.death, minecraft:entity.villager.hurt, minecraft:entity.villager.no, minecraft:entity.villager.trading, minecraft:entity.villager.yes, minecraft:entity.vindication_illager.ambient, minecraft:entity.vindication_illager.death, minecraft:entity.vindication_illager.hurt, minecraft:entity.witch.ambient, minecraft:entity.witch.death, minecraft:entity.witch.drink, minecraft:entity.witch.hurt, minecraft:entity.witch.throw, minecraft:entity.wither.ambient, minecraft:entity.wither.break_block, minecraft:entity.wither.death, minecraft:entity.wither.hurt, minecraft:entity.wither.shoot, minecraft:entity.wither.spawn, minecraft:entity.wither_skeleton.ambient, minecraft:entity.wither_skeleton.death, minecraft:entity.wither_skeleton.hurt, minecraft:entity.wither_skeleton.step, minecraft:entity.wolf.ambient, minecraft:entity.wolf.death, minecraft:entity.wolf.growl, minecraft:entity.wolf.howl, minecraft:entity.wolf.hurt, minecraft:entity.wolf.pant, minecraft:entity.wolf.shake, minecraft:entity.wolf.step, minecraft:entity.wolf.whine, minecraft:entity.zombie.ambient, minecraft:entity.zombie.attack_door_wood, minecraft:entity.zombie.attack_iron_door, minecraft:entity.zombie.break_door_wood, minecraft:entity.zombie.death, minecraft:entity.zombie.hurt, minecraft:entity.zombie.infect, minecraft:entity.zombie.step, minecraft:entity.zombie_horse.ambient, minecraft:entity.zombie_horse.death, minecraft:entity.zombie_horse.hurt, minecraft:entity.zombie_pig.ambient, minecraft:entity.zombie_pig.angry, minecraft:entity.zombie_pig.death, minecraft:entity.zombie_pig.hurt, minecraft:entity.zombie_villager.ambient, minecraft:entity.zombie_villager.converted, minecraft:entity.zombie_villager.cure, minecraft:entity.zombie_villager.death, minecraft:entity.zombie_villager.hurt, minecraft:entity.zombie_villager.step, minecraft:item.armor.equip_chain, minecraft:item.armor.equip_diamond, minecraft:item.armor.equip_elytra, minecraft:item.armor.equip_generic, minecraft:item.armor.equip_gold, minecraft:item.armor.equip_iron, minecraft:item.armor.equip_leather, minecraft:item.bottle.empty, minecraft:item.bottle.fill, minecraft:item.bottle.fill_dragonbreath, minecraft:item.bucket.empty, minecraft:item.bucket.empty_lava, minecraft:item.bucket.fill, minecraft:item.bucket.fill_lava, minecraft:item.chorus_fruit.teleport, minecraft:item.elytra.flying, minecraft:item.firecharge.use, minecraft:item.flintandsteel.use, minecraft:item.hoe.till, minecraft:item.shield.block, minecraft:item.shield.break, minecraft:item.shovel.flatten, minecraft:item.totem.use, minecraft:music.creative, minecraft:music.credits, minecraft:music.dragon, minecraft:music.end, minecraft:music.game, minecraft:music.menu, minecraft:music.nether, minecraft:record.11, minecraft:record.13, minecraft:record.blocks, minecraft:record.cat, minecraft:record.chirp, minecraft:record.far, minecraft:record.mall, minecraft:record.mellohi, minecraft:record.stal, minecraft:record.strad, minecraft:record.wait, minecraft:record.ward, minecraft:ui.button.click, minecraft:ui.toast.challenge_complete, minecraft:ui.toast.in, minecraft:ui.toast.out, minecraft:weather.rain, minecraft:weather.rain.above
-[12:43:57] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] earraylate:songs.blood_and_guts, earraylate:songs.failboat103 - excalibuuur, earraylate:songs.good_battle_04, earraylate:songs.thekyleb - 7 by 8, earraylate:songs.thekyleb - bard, earraylate:songs.ts1, earraylate:songs.ts2
-[12:43:58] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 用法：/playsound <声音> <资源> <玩家> [x] [y] [z] [音量] [音调] [最小音量]
-[12:43:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ambient, block, hostile, master, music, neutral, player, record, voice, weather
-[12:44:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player727: 向Player727播放声音'earraylate:songs.blood_and_guts']
-[12:44:05] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 向Player727播放声音'earraylate:songs.blood_and_guts'
-[12:44:08] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ambient, block, hostile, master, music, neutral, player, record, voice, weather
-[12:44:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player727: 为Player727停止所有声音]
-[12:44:10] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 为Player727停止所有声音
-[12:44:12] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[12:44:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[12:44:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[12:44:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[12:44:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player727 lost connection: 连接中止
-[12:44:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player727退出了游戏
-[12:44:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
-[12:44:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[12:44:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[12:44:13] [Server thread/INFO] [FML]: Unloading dimension 0
-[12:44:13] [Server thread/INFO] [FML]: Applying holder lookups
-[12:44:13] [Server thread/INFO] [FML]: Holder lookups applied
-[12:44:15] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
-[12:44:15] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
-[12:44:15] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
+[13:49:05] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement earraylate:1000th_died: Task Advancement{parentId=earraylate:100th_died, display=net.minecraft.advancements.DisplayInfo@490e2528, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={tick=net.minecraft.advancements.Criterion@55d1453e}, requirements=[[tick]]}
+[13:49:05] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement earraylate:tenth_died: Task Advancement{parentId=earraylate:first_died, display=net.minecraft.advancements.DisplayInfo@34679a31, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={tick=net.minecraft.advancements.Criterion@6b40d136}, requirements=[[tick]]}
+[13:49:05] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement earraylate:100th_died: Task Advancement{parentId=earraylate:tenth_died, display=net.minecraft.advancements.DisplayInfo@769b1393, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={tick=net.minecraft.advancements.Criterion@1bbfb517}, requirements=[[tick]]}
+[13:49:05] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 499 advancements
+[13:49:05] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@34e3af56)
+[13:49:05] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@34e3af56)
+[13:49:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[13:49:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 44%
+[13:49:06] [Server thread/INFO] [FML]: Unloading dimension -1
+[13:49:06] [Server thread/INFO] [FML]: Unloading dimension 1
+[13:49:06] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[13:49:09] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[13:49:09] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[13:49:09] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2859,mcp@9.42,variedcommodities@1.12.2,earraylate@1.0
+[13:49:09] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[13:49:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:49:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player203[local:E:924405e5] logged in with entity id 109 at (64.82136106867821, 64.0, 503.1494208648049)
+[13:49:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player203加入了游戏
+[13:49:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player203达成了目标[天空即为极限]
+[13:49:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player203取得了进度[欢迎来到尔利雷特大陆!]
+[13:49:10] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[13:49:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[13:49:10] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player203达成了目标[天空即为极限]
+[13:49:11] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player203取得了进度[欢迎来到尔利雷特大陆!]
+[13:49:11] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 8 advancements
+[13:49:16] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] earraylate:human.man, earraylate:human.manattack, earraylate:human.woman, earraylate:human.womanattack, earraylate:human.womandead, earraylate:songs.blood_and_guts, earraylate:songs.failboat103_-_excalibuuur, earraylate:songs.good_battle_04, earraylate:songs.thekyleb_-_7_by_8, earraylate:songs.thekyleb_-_bard, earraylate:songs.ts1, earraylate:songs.ts2, minecraft:ambient.cave, minecraft:block.anvil.break, minecraft:block.anvil.destroy, minecraft:block.anvil.fall, minecraft:block.anvil.hit, minecraft:block.anvil.land, minecraft:block.anvil.place, minecraft:block.anvil.step, minecraft:block.anvil.use, minecraft:block.brewing_stand.brew, minecraft:block.chest.close, minecraft:block.chest.locked, minecraft:block.chest.open, minecraft:block.chorus_flower.death, minecraft:block.chorus_flower.grow, minecraft:block.cloth.break, minecraft:block.cloth.fall, minecraft:block.cloth.hit, minecraft:block.cloth.place, minecraft:block.cloth.step, minecraft:block.comparator.click, minecraft:block.dispenser.dispense, minecraft:block.dispenser.fail, minecraft:block.dispenser.launch, minecraft:block.enchantment_table.use, minecraft:block.end_gateway.spawn, minecraft:block.end_portal.spawn, minecraft:block.end_portal_frame.fill, minecraft:block.enderchest.close, minecraft:block.enderchest.open, minecraft:block.fence_gate.close, minecraft:block.fence_gate.open, minecraft:block.fire.ambient, minecraft:block.fire.extinguish, minecraft:block.furnace.fire_crackle, minecraft:block.glass.break, minecraft:block.glass.fall, minecraft:block.glass.hit, minecraft:block.glass.place, minecraft:block.glass.step, minecraft:block.grass.break, minecraft:block.grass.fall, minecraft:block.grass.hit, minecraft:block.grass.place, minecraft:block.grass.step, minecraft:block.gravel.break, minecraft:block.gravel.fall, minecraft:block.gravel.hit, minecraft:block.gravel.place, minecraft:block.gravel.step, minecraft:block.iron_door.close, minecraft:block.iron_door.open, minecraft:block.iron_trapdoor.close, minecraft:block.iron_trapdoor.open, minecraft:block.ladder.break, minecraft:block.ladder.fall, minecraft:block.ladder.hit, minecraft:block.ladder.place, minecraft:block.ladder.step, minecraft:block.lava.ambient, minecraft:block.lava.extinguish, minecraft:block.lava.pop, minecraft:block.lever.click, minecraft:block.metal.break, minecraft:block.metal.fall, minecraft:block.metal.hit, minecraft:block.metal.place, minecraft:block.metal.step, minecraft:block.metal_pressureplate.click_off, minecraft:block.metal_pressureplate.click_on, minecraft:block.note.basedrum, minecraft:block.note.bass, minecraft:block.note.bell, minecraft:block.note.chime, minecraft:block.note.flute, minecraft:block.note.guitar, minecraft:block.note.harp, minecraft:block.note.hat, minecraft:block.note.pling, minecraft:block.note.snare, minecraft:block.note.xylophone, minecraft:block.piston.contract, minecraft:block.piston.extend, minecraft:block.portal.ambient, minecraft:block.portal.travel, minecraft:block.portal.trigger, minecraft:block.redstone_torch.burnout, minecraft:block.sand.break, minecraft:block.sand.fall, minecraft:block.sand.hit, minecraft:block.sand.place, minecraft:block.sand.step, minecraft:block.shulker_box.close, minecraft:block.shulker_box.open, minecraft:block.slime.break, minecraft:block.slime.fall, minecraft:block.slime.hit, minecraft:block.slime.place, minecraft:block.slime.step, minecraft:block.snow.break, minecraft:block.snow.fall, minecraft:block.snow.hit, minecraft:block.snow.place, minecraft:block.snow.step, minecraft:block.stone.break, minecraft:block.stone.fall, minecraft:block.stone.hit, minecraft:block.stone.place, minecraft:block.stone.step, minecraft:block.stone_button.click_off, minecraft:block.stone_button.click_on, minecraft:block.stone_pressureplate.click_off, minecraft:block.stone_pressureplate.click_on, minecraft:block.tripwire.attach, minecraft:block.tripwire.click_off, minecraft:block.tripwire.click_on, minecraft:block.tripwire.detach, minecraft:block.water.ambient, minecraft:block.waterlily.place, minecraft:block.wood.break, minecraft:block.wood.fall, minecraft:block.wood.hit, minecraft:block.wood.place, minecraft:block.wood.step, minecraft:block.wood_button.click_off, minecraft:block.wood_button.click_on, minecraft:block.wood_pressureplate.click_off, minecraft:block.wood_pressureplate.click_on, minecraft:block.wooden_door.close, minecraft:block.wooden_door.open, minecraft:block.wooden_trapdoor.close, minecraft:block.wooden_trapdoor.open, minecraft:enchant.thorns.hit, minecraft:entity.armorstand.break, minecraft:entity.armorstand.fall, minecraft:entity.armorstand.hit, minecraft:entity.armorstand.place, minecraft:entity.arrow.hit, minecraft:entity.arrow.hit_player, minecraft:entity.arrow.shoot, minecraft:entity.bat.ambient, minecraft:entity.bat.death, minecraft:entity.bat.hurt, minecraft:entity.bat.loop, minecraft:entity.bat.takeoff, minecraft:entity.blaze.ambient, minecraft:entity.blaze.burn, minecraft:entity.blaze.death, minecraft:entity.blaze.hurt, minecraft:entity.blaze.shoot, minecraft:entity.boat.paddle_land, minecraft:entity.boat.paddle_water, minecraft:entity.bobber.retrieve, minecraft:entity.bobber.splash, minecraft:entity.bobber.throw, minecraft:entity.cat.ambient, minecraft:entity.cat.death, minecraft:entity.cat.hiss, minecraft:entity.cat.hurt, minecraft:entity.cat.purr, minecraft:entity.cat.purreow, minecraft:entity.chicken.ambient, minecraft:entity.chicken.death, minecraft:entity.chicken.egg, minecraft:entity.chicken.hurt, minecraft:entity.chicken.step, minecraft:entity.cow.ambient, minecraft:entity.cow.death, minecraft:entity.cow.hurt, minecraft:entity.cow.milk, minecraft:entity.cow.step, minecraft:entity.creeper.death, minecraft:entity.creeper.hurt, minecraft:entity.creeper.primed, minecraft:entity.donkey.ambient, minecraft:entity.donkey.angry, minecraft:entity.donkey.chest, minecraft:entity.donkey.death, minecraft:entity.donkey.hurt, minecraft:entity.egg.throw, minecraft:entity.elder_guardian.ambient, minecraft:entity.elder_guardian.ambient_land, minecraft:entity.elder_guardian.curse, minecraft:entity.elder_guardian.death, minecraft:entity.elder_guardian.death_land, minecraft:entity.elder_guardian.flop, minecraft:entity.elder_guardian.hurt, minecraft:entity.elder_guardian.hurt_land, minecraft:entity.enderdragon.ambient, minecraft:entity.enderdragon.death, minecraft:entity.enderdragon.flap, minecraft:entity.enderdragon.growl, minecraft:entity.enderdragon.hurt, minecraft:entity.enderdragon.shoot, minecraft:entity.enderdragon_fireball.explode, minecraft:entity.endereye.death, minecraft:entity.endereye.launch, minecraft:entity.endermen.ambient, minecraft:entity.endermen.death, minecraft:entity.endermen.hurt, minecraft:entity.endermen.scream, minecraft:entity.endermen.stare, minecraft:entity.endermen.teleport, minecraft:entity.endermite.ambient, minecraft:entity.endermite.death, minecraft:entity.endermite.hurt, minecraft:entity.endermite.step, minecraft:entity.enderpearl.throw, minecraft:entity.evocation_fangs.attack, minecraft:entity.evocation_illager.ambient, minecraft:entity.evocation_illager.cast_spell, minecraft:entity.evocation_illager.death, minecraft:entity.evocation_illager.hurt, minecraft:entity.evocation_illager.prepare_attack, minecraft:entity.evocation_illager.prepare_summon, minecraft:entity.evocation_illager.prepare_wololo, minecraft:entity.experience_bottle.throw, minecraft:entity.experience_orb.pickup, minecraft:entity.firework.blast, minecraft:entity.firework.blast_far, minecraft:entity.firework.large_blast, minecraft:entity.firework.large_blast_far, minecraft:entity.firework.launch, minecraft:entity.firework.shoot, minecraft:entity.firework.twinkle, minecraft:entity.firework.twinkle_far, minecraft:entity.generic.big_fall, minecraft:entity.generic.burn, minecraft:entity.generic.death, minecraft:entity.generic.drink, minecraft:entity.generic.eat, minecraft:entity.generic.explode, minecraft:entity.generic.extinguish_fire, minecraft:entity.generic.hurt, minecraft:entity.generic.small_fall, minecraft:entity.generic.splash, minecraft:entity.generic.swim, minecraft:entity.ghast.ambient, minecraft:entity.ghast.death, minecraft:entity.ghast.hurt, minecraft:entity.ghast.scream, minecraft:entity.ghast.shoot, minecraft:entity.ghast.warn, minecraft:entity.guardian.ambient, minecraft:entity.guardian.ambient_land, minecraft:entity.guardian.attack, minecraft:entity.guardian.death, minecraft:entity.guardian.death_land, minecraft:entity.guardian.flop, minecraft:entity.guardian.hurt, minecraft:entity.guardian.hurt_land, minecraft:entity.horse.ambient, minecraft:entity.horse.angry, minecraft:entity.horse.armor, minecraft:entity.horse.breathe, minecraft:entity.horse.death, minecraft:entity.horse.eat, minecraft:entity.horse.gallop, minecraft:entity.horse.hurt, minecraft:entity.horse.jump, minecraft:entity.horse.land, minecraft:entity.horse.saddle, minecraft:entity.horse.step, minecraft:entity.horse.step_wood, minecraft:entity.hostile.big_fall, minecraft:entity.hostile.death, minecraft:entity.hostile.hurt, minecraft:entity.hostile.small_fall, minecraft:entity.hostile.splash, minecraft:entity.hostile.swim, minecraft:entity.husk.ambient, minecraft:entity.husk.death, minecraft:entity.husk.hurt, minecraft:entity.husk.step, minecraft:entity.illusion_illager.ambient, minecraft:entity.illusion_illager.cast_spell, minecraft:entity.illusion_illager.death, minecraft:entity.illusion_illager.hurt, minecraft:entity.illusion_illager.mirror_move, minecraft:entity.illusion_illager.prepare_blindness, minecraft:entity.illusion_illager.prepare_mirror, minecraft:entity.irongolem.attack, minecraft:entity.irongolem.death, minecraft:entity.irongolem.hurt, minecraft:entity.irongolem.step, minecraft:entity.item.break, minecraft:entity.item.pickup, minecraft:entity.itemframe.add_item, minecraft:entity.itemframe.break, minecraft:entity.itemframe.place, minecraft:entity.itemframe.remove_item, minecraft:entity.itemframe.rotate_item, minecraft:entity.leashknot.break, minecraft:entity.leashknot.place, minecraft:entity.lightning.impact, minecraft:entity.lightning.thunder, minecraft:entity.lingeringpotion.throw, minecraft:entity.llama.ambient, minecraft:entity.llama.angry, minecraft:entity.llama.chest, minecraft:entity.llama.death, minecraft:entity.llama.eat, minecraft:entity.llama.hurt, minecraft:entity.llama.spit, minecraft:entity.llama.step, minecraft:entity.llama.swag, minecraft:entity.magmacube.death, minecraft:entity.magmacube.hurt, minecraft:entity.magmacube.jump, minecraft:entity.magmacube.squish, minecraft:entity.minecart.inside, minecraft:entity.minecart.riding, minecraft:entity.mooshroom.shear, minecraft:entity.mule.ambient, minecraft:entity.mule.chest, minecraft:entity.mule.death, minecraft:entity.mule.hurt, minecraft:entity.painting.break, minecraft:entity.painting.place, minecraft:entity.parrot.ambient, minecraft:entity.parrot.death, minecraft:entity.parrot.eat, minecraft:entity.parrot.fly, minecraft:entity.parrot.hurt, minecraft:entity.parrot.imitate.blaze, minecraft:entity.parrot.imitate.creeper, minecraft:entity.parrot.imitate.elder_guardian, minecraft:entity.parrot.imitate.enderdragon, minecraft:entity.parrot.imitate.enderman, minecraft:entity.parrot.imitate.endermite, minecraft:entity.parrot.imitate.evocation_illager, minecraft:entity.parrot.imitate.ghast, minecraft:entity.parrot.imitate.husk, minecraft:entity.parrot.imitate.illusion_illager, minecraft:entity.parrot.imitate.magmacube, minecraft:entity.parrot.imitate.polar_bear, minecraft:entity.parrot.imitate.shulker, minecraft:entity.parrot.imitate.silverfish, minecraft:entity.parrot.imitate.skeleton, minecraft:entity.parrot.imitate.slime, minecraft:entity.parrot.imitate.spider, minecraft:entity.parrot.imitate.stray, minecraft:entity.parrot.imitate.vex, minecraft:entity.parrot.imitate.vindication_illager, minecraft:entity.parrot.imitate.witch, minecraft:entity.parrot.imitate.wither, minecraft:entity.parrot.imitate.wither_skeleton, minecraft:entity.parrot.imitate.wolf, minecraft:entity.parrot.imitate.zombie, minecraft:entity.parrot.imitate.zombie_pigman, minecraft:entity.parrot.imitate.zombie_villager, minecraft:entity.parrot.step, minecraft:entity.pig.ambient, minecraft:entity.pig.death, minecraft:entity.pig.hurt, minecraft:entity.pig.saddle, minecraft:entity.pig.step, minecraft:entity.player.attack.crit, minecraft:entity.player.attack.knockback, minecraft:entity.player.attack.nodamage, minecraft:entity.player.attack.strong, minecraft:entity.player.attack.sweep, minecraft:entity.player.attack.weak, minecraft:entity.player.big_fall, minecraft:entity.player.breath, minecraft:entity.player.burp, minecraft:entity.player.death, minecraft:entity.player.hurt, minecraft:entity.player.hurt_drown, minecraft:entity.player.hurt_on_fire, minecraft:entity.player.levelup, minecraft:entity.player.small_fall, minecraft:entity.player.splash, minecraft:entity.player.swim, minecraft:entity.polar_bear.ambient, minecraft:entity.polar_bear.baby_ambient, minecraft:entity.polar_bear.death, minecraft:entity.polar_bear.hurt, minecraft:entity.polar_bear.step, minecraft:entity.polar_bear.warning, minecraft:entity.rabbit.ambient, minecraft:entity.rabbit.attack, minecraft:entity.rabbit.death, minecraft:entity.rabbit.hurt, minecraft:entity.rabbit.jump, minecraft:entity.sheep.ambient, minecraft:entity.sheep.death, minecraft:entity.sheep.hurt, minecraft:entity.sheep.shear, minecraft:entity.sheep.step, minecraft:entity.shulker.ambient, minecraft:entity.shulker.close, minecraft:entity.shulker.death, minecraft:entity.shulker.hurt, minecraft:entity.shulker.hurt_closed, minecraft:entity.shulker.open, minecraft:entity.shulker.shoot, minecraft:entity.shulker.teleport, minecraft:entity.shulker_bullet.hit, minecraft:entity.shulker_bullet.hurt, minecraft:entity.silverfish.ambient, minecraft:entity.silverfish.death, minecraft:entity.silverfish.hurt, minecraft:entity.silverfish.step, minecraft:entity.skeleton.ambient, minecraft:entity.skeleton.death, minecraft:entity.skeleton.hurt, minecraft:entity.skeleton.shoot, minecraft:entity.skeleton.step, minecraft:entity.skeleton_horse.ambient, minecraft:entity.skeleton_horse.death, minecraft:entity.skeleton_horse.hurt, minecraft:entity.slime.attack, minecraft:entity.slime.death, minecraft:entity.slime.hurt, minecraft:entity.slime.jump, minecraft:entity.slime.squish, minecraft:entity.small_magmacube.death, minecraft:entity.small_magmacube.hurt, minecraft:entity.small_magmacube.squish, minecraft:entity.small_slime.death, minecraft:entity.small_slime.hurt, minecraft:entity.small_slime.jump, minecraft:entity.small_slime.squish, minecraft:entity.snowball.throw, minecraft:entity.snowman.ambient, minecraft:entity.snowman.death, minecraft:entity.snowman.hurt, minecraft:entity.snowman.shoot, minecraft:entity.spider.ambient, minecraft:entity.spider.death, minecraft:entity.spider.hurt, minecraft:entity.spider.step, minecraft:entity.splash_potion.break, minecraft:entity.splash_potion.throw, minecraft:entity.squid.ambient, minecraft:entity.squid.death, minecraft:entity.squid.hurt, minecraft:entity.stray.ambient, minecraft:entity.stray.death, minecraft:entity.stray.hurt, minecraft:entity.stray.step, minecraft:entity.tnt.primed, minecraft:entity.vex.ambient, minecraft:entity.vex.charge, minecraft:entity.vex.death, minecraft:entity.vex.hurt, minecraft:entity.villager.ambient, minecraft:entity.villager.death, minecraft:entity.villager.hurt, minecraft:entity.villager.no, minecraft:entity.villager.trading, minecraft:entity.villager.yes, minecraft:entity.vindication_illager.ambient, minecraft:entity.vindication_illager.death, minecraft:entity.vindication_illager.hurt, minecraft:entity.witch.ambient, minecraft:entity.witch.death, minecraft:entity.witch.drink, minecraft:entity.witch.hurt, minecraft:entity.witch.throw, minecraft:entity.wither.ambient, minecraft:entity.wither.break_block, minecraft:entity.wither.death, minecraft:entity.wither.hurt, minecraft:entity.wither.shoot, minecraft:entity.wither.spawn, minecraft:entity.wither_skeleton.ambient, minecraft:entity.wither_skeleton.death, minecraft:entity.wither_skeleton.hurt, minecraft:entity.wither_skeleton.step, minecraft:entity.wolf.ambient, minecraft:entity.wolf.death, minecraft:entity.wolf.growl, minecraft:entity.wolf.howl, minecraft:entity.wolf.hurt, minecraft:entity.wolf.pant, minecraft:entity.wolf.shake, minecraft:entity.wolf.step, minecraft:entity.wolf.whine, minecraft:entity.zombie.ambient, minecraft:entity.zombie.attack_door_wood, minecraft:entity.zombie.attack_iron_door, minecraft:entity.zombie.break_door_wood, minecraft:entity.zombie.death, minecraft:entity.zombie.hurt, minecraft:entity.zombie.infect, minecraft:entity.zombie.step, minecraft:entity.zombie_horse.ambient, minecraft:entity.zombie_horse.death, minecraft:entity.zombie_horse.hurt, minecraft:entity.zombie_pig.ambient, minecraft:entity.zombie_pig.angry, minecraft:entity.zombie_pig.death, minecraft:entity.zombie_pig.hurt, minecraft:entity.zombie_villager.ambient, minecraft:entity.zombie_villager.converted, minecraft:entity.zombie_villager.cure, minecraft:entity.zombie_villager.death, minecraft:entity.zombie_villager.hurt, minecraft:entity.zombie_villager.step, minecraft:item.armor.equip_chain, minecraft:item.armor.equip_diamond, minecraft:item.armor.equip_elytra, minecraft:item.armor.equip_generic, minecraft:item.armor.equip_gold, minecraft:item.armor.equip_iron, minecraft:item.armor.equip_leather, minecraft:item.bottle.empty, minecraft:item.bottle.fill, minecraft:item.bottle.fill_dragonbreath, minecraft:item.bucket.empty, minecraft:item.bucket.empty_lava, minecraft:item.bucket.fill, minecraft:item.bucket.fill_lava, minecraft:item.chorus_fruit.teleport, minecraft:item.elytra.flying, minecraft:item.firecharge.use, minecraft:item.flintandsteel.use, minecraft:item.hoe.till, minecraft:item.shield.block, minecraft:item.shield.break, minecraft:item.shovel.flatten, minecraft:item.totem.use, minecraft:music.creative, minecraft:music.credits, minecraft:music.dragon, minecraft:music.end, minecraft:music.game, minecraft:music.menu, minecraft:music.nether, minecraft:record.11, minecraft:record.13, minecraft:record.blocks, minecraft:record.cat, minecraft:record.chirp, minecraft:record.far, minecraft:record.mall, minecraft:record.mellohi, minecraft:record.stal, minecraft:record.strad, minecraft:record.wait, minecraft:record.ward, minecraft:ui.button.click, minecraft:ui.toast.challenge_complete, minecraft:ui.toast.in, minecraft:ui.toast.out, minecraft:weather.rain, minecraft:weather.rain.above, variedcommodities:gun.ak47.load, variedcommodities:gun.empty, variedcommodities:gun.pistol.shot, variedcommodities:gun.pistol.trigger, variedcommodities:magic.charge, variedcommodities:magic.shot, variedcommodities:misc.swosh
+[13:49:19] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] earraylate:songs.blood_and_guts, earraylate:songs.failboat103_-_excalibuuur, earraylate:songs.good_battle_04, earraylate:songs.thekyleb_-_7_by_8, earraylate:songs.thekyleb_-_bard, earraylate:songs.ts1, earraylate:songs.ts2
+[13:49:20] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ambient, block, hostile, master, music, neutral, player, record, voice, weather
+[13:49:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player203: 向Player203播放声音'earraylate:songs.blood_and_guts']
+[13:49:23] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 向Player203播放声音'earraylate:songs.blood_and_guts'
+[13:49:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player203: 为Player203停止所有声音]
+[13:49:26] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 为Player203停止所有声音
+[13:49:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] earraylate:human.man, earraylate:human.manattack, earraylate:human.woman, earraylate:human.womanattack, earraylate:human.womandead
+[13:49:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ambient, block, hostile, master, music, neutral, player, record, voice, weather
+[13:49:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player203: 向Player203播放声音'earraylate:human.man']
+[13:49:35] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 向Player203播放声音'earraylate:human.man'
+[13:49:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player203: 向Player203播放声音'earraylate:human.man']
+[13:49:37] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 向Player203播放声音'earraylate:human.man'
+[13:49:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player203: 向Player203播放声音'earraylate:human.man']
+[13:49:38] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 向Player203播放声音'earraylate:human.man'
+[13:49:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player203: 向Player203播放声音'earraylate:human.man']
+[13:49:38] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 向Player203播放声音'earraylate:human.man'
+[13:49:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player203: 向Player203播放声音'earraylate:human.man']
+[13:49:39] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 向Player203播放声音'earraylate:human.man'
+[13:49:45] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[13:49:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[13:49:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:49:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[13:49:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player203 lost connection: 连接中止
+[13:49:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player203退出了游戏
+[13:49:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[13:49:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[13:49:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[13:49:46] [Server thread/INFO] [FML]: Unloading dimension 0
+[13:49:46] [Server thread/INFO] [FML]: Applying holder lookups
+[13:49:46] [Server thread/INFO] [FML]: Holder lookups applied
+[13:49:47] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[13:49:47] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[13:49:48] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

@@ -1,30 +1,142 @@
 {
   "songs.excalibur": {
     "category": "player",
-    "sounds": [{"name": "earraylate:songs/failboat103 - excalibuuur", "stream": true}]
+    "sounds": [
+      {
+        "name": "earraylate:songs/failboat103_-_excalibuuur",
+        "stream": true
+      }
+    ]
   },
   "songs.kyleb_7by8": {
     "category": "player",
-    "sounds": [{"name": "earraylate:songs/thekyleb - 7 by 8", "stream": true}]
+    "sounds": [
+      {
+        "name": "earraylate:songs/thekyleb_-_7_by_8",
+        "stream": true
+      }
+    ]
   },
   "songs.kyleb_bard": {
     "category": "player",
-    "sounds": [{"name": "earraylate:songs/thekyleb - bard", "stream": true}]
+    "sounds": [
+      {
+        "name": "earraylate:songs/thekyleb_-_bard",
+        "stream": true
+      }
+    ]
   },
   "songs.good_battle_04": {
     "category": "player",
-    "sounds": [{"name": "earraylate:songs/good_battle_04", "stream": true}]
+    "sounds": [
+      {
+        "name": "earraylate:songs/good_battle_04",
+        "stream": true
+      }
+    ]
   },
   "songs.blood_and_guts": {
     "category": "player",
-    "sounds": [{"name": "earraylate:songs/blood_and_guts", "stream": true}]
+    "sounds": [
+      {
+        "name": "earraylate:songs/blood_and_guts",
+        "stream": true
+      }
+    ]
   },
   "songs.ts1": {
     "category": "player",
-    "sounds": [{"name": "earraylate:songs/ts1", "stream": true}]
+    "sounds": [
+      {
+        "name": "earraylate:songs/ts1",
+        "stream": true
+      }
+    ]
   },
   "songs.ts2": {
     "category": "player",
-    "sounds": [{"name": "earraylate:songs/ts2", "stream": true}]
+    "sounds": [
+      {
+        "name": "earraylate:songs/ts2",
+        "stream": true
+      }
+    ]
+  },
+  "human.man": {
+    "category": "player",
+    "sounds": [
+      "earraylate:human/man/man",
+      "earraylate:human/man/man1",
+      "earraylate:human/man/man2",
+      "earraylate:human/man/man3",
+      "earraylate:human/man/man4",
+      "earraylate:human/man/man5",
+      "earraylate:human/man/man6",
+      "earraylate:human/man/man7",
+      "earraylate:human/man/man8",
+      "earraylate:human/man/man9",
+      "earraylate:human/man/man10",
+      "earraylate:human/man/man11",
+      "earraylate:human/man/man12",
+      "earraylate:human/man/man13",
+      "earraylate:human/man/man14",
+      "earraylate:human/man/man15"
+    ]
+  },
+  "human.manattack": {
+    "category": "player",
+    "sounds": [
+      "earraylate:human/man/manattack/manattack",
+      "earraylate:human/man/manattack/manattack1",
+      "earraylate:human/man/manattack/manattack2",
+      "earraylate:human/man/manattack/manattack3",
+      "earraylate:human/man/manattack/manattack4",
+      "earraylate:human/man/manattack/manattack5",
+      "earraylate:human/man/manattack/manattack6",
+      "earraylate:human/man/manattack/manattack7"
+    ]
+  },
+  "human.womanattack": {
+    "category": "player",
+    "sounds": [
+      "earraylate:human/woman/womanattack/womanattack",
+      "earraylate:human/woman/womanattack/womanattack1",
+      "earraylate:human/woman/womanattack/womanattack2",
+      "earraylate:human/woman/womanattack/womanattack3"
+    ]
+  },
+  "human.womandead": {
+    "category": "player",
+    "sounds": [
+      "earraylate:human/woman/womandead/womandead",
+      "earraylate:human/woman/womandead/womandead1",
+      "earraylate:human/woman/womandead/womandead2",
+      "earraylate:human/woman/womandead/womandead3",
+      "earraylate:human/woman/womandead/womandead4",
+      "earraylate:human/woman/womandead/womandead5",
+      "earraylate:human/woman/womandead/womandead6",
+      "earraylate:human/woman/womandead/womandead7"
+    ]
+  },
+  "human.woman": {
+    "category": "player",
+    "sounds": [
+      "earraylate:human/woman/woman",
+      "earraylate:human/woman/woman1",
+      "earraylate:human/woman/woman2",
+      "earraylate:human/woman/woman3",
+      "earraylate:human/woman/woman4",
+      "earraylate:human/woman/woman5",
+      "earraylate:human/woman/woman6",
+      "earraylate:human/woman/woman7",
+      "earraylate:human/woman/woman8",
+      "earraylate:human/woman/woman9",
+      "earraylate:human/woman/woman10",
+      "earraylate:human/woman/woman11",
+      "earraylate:human/woman/woman12",
+      "earraylate:human/woman/woman13",
+      "earraylate:human/woman/woman14",
+      "earraylate:human/woman/woman15"
+    ]
   }
 }

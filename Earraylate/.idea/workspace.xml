@@ -20,28 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ae66be0-244f-4bfe-879a-539418e51c31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/init/ModItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/items/ItemBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/proxy/ClientProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/proxy/CommonProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/util/IHasModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/util/Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/util/handlers/RegistryHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/util/handlers/SoundsHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/dreambx/Earraylate/Earraylate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/dreambx/Earraylate/Earraylate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/Earraylate-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Earraylate-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/mcmod.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/Earraylate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/Earraylate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/init/ModItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/proxy/CommonProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/proxy/CommonProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/util/handlers/SoundsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/util/handlers/SoundsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/earraylate/sounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/earraylate/sounds.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +65,12 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Earraylate" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Earraylate" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="fg_runs" type="c8890929:TasksNode$1" />
               </path>
             </expand>
@@ -107,7 +100,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CustomNPCs-decompile/files" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -127,6 +120,25 @@
         <option name="taskNames">
           <list>
             <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Earraylate [publish]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publish" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -156,6 +168,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.Earraylate [build]" />
+        <item itemvalue="Gradle.Earraylate [publish]" />
         <item itemvalue="Gradle.Earraylate [runClient]" />
       </list>
     </recent_temporary>
@@ -186,6 +199,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="96" key="#Inspections" timestamp="1656220996183">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="395" y="96" key="#Inspections/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656220996183" />
     <state x="249" y="0" key="#Project_Structure" timestamp="1655167326413">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -194,6 +211,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1655178789713" />
+    <state x="508" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1656222008376">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="508" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656222008376" />
     <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1655169770660">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -202,26 +223,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="498" y="206" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1655167767866" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1655128443123">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1656080956683">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1655128443123" />
-    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1655183430174">
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656080956683" />
+    <state width="1493" height="177" key="GridCell.Tab.0.bottom" timestamp="1656222354260">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1655183430174" />
-    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1655183430174">
+    <state width="1493" height="177" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656222354260" />
+    <state width="1493" height="177" key="GridCell.Tab.0.center" timestamp="1656222354259">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1655183430174" />
-    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1655183430173">
+    <state width="1493" height="177" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656222354259" />
+    <state width="1493" height="177" key="GridCell.Tab.0.left" timestamp="1656222354259">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1655183430173" />
-    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1655183430174">
+    <state width="1493" height="177" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656222354259" />
+    <state width="1493" height="177" key="GridCell.Tab.0.right" timestamp="1656222354259">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1655183430174" />
+    <state width="1493" height="177" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656222354259" />
     <state width="1493" height="145" key="GridCell.Tab.1.bottom" timestamp="1655183430174">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -242,9 +263,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1655176674033" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1655176872328">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1656221623905">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1655176872328" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656221623905" />
   </component>
 </project>
