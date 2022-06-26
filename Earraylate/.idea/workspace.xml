@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ae66be0-244f-4bfe-879a-539418e51c31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/init/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/init/ModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/proxy/CommonProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/proxy/CommonProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/util/handlers/SoundsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dreambx/Earraylate/util/handlers/SoundsHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/earraylate/sounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/earraylate/sounds.json" afterDir="false" />
-    </list>
+    <list default="true" id="2ae66be0-244f-4bfe-879a-539418e51c31" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +55,13 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Earraylate" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name="fg_runs" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Earraylate" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="fg_runs" type="c8890929:TasksNode$1" />
+                <item name="publishing" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -227,22 +217,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656080956683" />
-    <state width="1493" height="177" key="GridCell.Tab.0.bottom" timestamp="1656222354260">
+    <state width="1493" height="177" key="GridCell.Tab.0.bottom" timestamp="1656223007351">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656222354260" />
-    <state width="1493" height="177" key="GridCell.Tab.0.center" timestamp="1656222354259">
+    <state width="1493" height="177" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656223007351" />
+    <state width="1493" height="177" key="GridCell.Tab.0.center" timestamp="1656223007351">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656222354259" />
-    <state width="1493" height="177" key="GridCell.Tab.0.left" timestamp="1656222354259">
+    <state width="1493" height="177" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656223007351" />
+    <state width="1493" height="177" key="GridCell.Tab.0.left" timestamp="1656223007351">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656222354259" />
-    <state width="1493" height="177" key="GridCell.Tab.0.right" timestamp="1656222354259">
+    <state width="1493" height="177" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656223007351" />
+    <state width="1493" height="177" key="GridCell.Tab.0.right" timestamp="1656223007351">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="177" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656222354259" />
+    <state width="1493" height="177" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1656223007351" />
     <state width="1493" height="145" key="GridCell.Tab.1.bottom" timestamp="1655183430174">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

@@ -13,9 +13,9 @@ public class SoundsHandler {
     public static void registerSounds() {
         // songs
         SoundEvent BLOOD_AND_GUTS = registerSound("songs.blood_and_guts");
-        SoundEvent FAILBOAT103_EXCALIBUUUR = registerSound("songs.failboat103_-_excalibuuur");
-        SoundEvent THEKYLEB_7BY8 = registerSound("songs.thekyleb_-_7_by_8");
-        SoundEvent THEKYLEB_BARD = registerSound("songs.thekyleb_-_bard");
+        SoundEvent FAILBOAT103_EXCALIBUUUR = registerSound("songs.excalibur");
+        SoundEvent THEKYLEB_7BY8 = registerSound("songs.kyleb_7by8");
+        SoundEvent THEKYLEB_BARD = registerSound("songs.kyleb_bard");
         SoundEvent GOOD_BATTLE_04 = registerSound("songs.good_battle_04");
         SoundEvent TS1 = registerSound("songs.ts1");
         SoundEvent TS2 = registerSound("songs.ts2");
