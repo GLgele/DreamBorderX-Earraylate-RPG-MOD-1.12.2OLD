@@ -31,4 +31,6 @@ advancements.earraylate.chapter1_finish.desc=You Finished Chapter 1!
 
 item.black_bread.name=Black Bread
 
+tile.test_block.name=Test Block
+
 itemGroup.earraylate_tab=Earraylate

@@ -1,7 +1,9 @@
 package com.dreambx.earraylate.util.handlers;
 
+import com.dreambx.earraylate.init.ModBlocks;
 import com.dreambx.earraylate.init.ModItems;
 import com.dreambx.earraylate.util.IHasModel;
+import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
@@ -18,6 +20,10 @@ public class RegistryHandler {
     public static void onItemRegister(RegistryEvent.Register<Item> event) {
         event.getRegistry().registerAll(ModItems.ITEMS.toArray(new Item[0]));
     }
+    @SubscribeEvent
+    public static void onBlockRegister(RegistryEvent.Register<Block> event) {
+        event.getRegistry().registerAll(ModBlocks.BLOCKS.toArray(new Block[0]));
+    }
 
     @SubscribeEvent
     public static void onModelRegister(ModelRegistryEvent event) {
@@ -26,6 +32,10 @@ public class RegistryHandler {
                 ((IHasModel) item).registerModels();
             }
         }
-
+        for (Block block: ModBlocks.BLOCKS) {
+            if (block instanceof IHasModel) {
+                ((IHasModel)block).registerModels();
+            }
+        }
     }
 }
